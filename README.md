@@ -1,14 +1,22 @@
 # 30DayMapChallengeQGISPERU 🤜🇵🇪🌎🗺🤛
-_¡Mapatón orientada a compartir mapas temáticos diversos por cada día del mes, empleando software de código de uso libre!_
+<table>
+<p align="center">
+<a href="https://github.com/qgispe"><img src="https://img.shields.io/badge/qgis-peru-%233BB300.svg?&style=for-the-badge&logo=qgis&logoColor=white"></a> <a><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=whit"></a> <a><img src= "https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"></a> <a><img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
+"></a> <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a> <a><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></a> <a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a> <a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+"></a> <a><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a> <a><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a> <a><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a> <a href="https://www.linkedin.com/in/antonybarja/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/antony_barja"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>  <a href="https://www.youtube.com/channel/UCuWvYTTYCZBmbDoEbsY2MSw"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
+</table>
 
+
+_¡Mapatón orientada a compartir mapas temáticos diversos por cada día del mes, empleando software de código de uso libre!_
 
 ## Proyecto de mapeo social diario para el mes de septiembre del 2021 🚀
 
-¡Hola amigos! Recordemos que el repositorio oficial del ##30DayMapChallenge es un desafío diario lanzado por OSGEO con el propósito de **mapear/georreferenciar/cartografiar/visualizar/** datos que puedan ser relevantes para la comunidad espacial y para todos en general.
+¡Hola amigos! Recordemos que el repositorio oficial del ##30DayMapChallenge es un desafío diario lanzado por **OSGEO** <img src="_icon/OSGeo.svg" height="20px"> con el propósito de **mapear/georreferenciar/cartografiar/visualizar/** datos que puedan ser relevantes para la comunidad espacial y para todos en general.
 
 El propósito principal de esta mapatón es la de `crear y publicar` mapas basados en diferentes temáticas** en cada uno de los días del mes en el que se desarrolle. Para ello se utilizará el hashtag #30DayMapChallenge y podremos ver el calendario de temas a continuación.
 
-Cada participante podrá preparar sus datos y desarrollar un mapa el cual podrá presentar las veces que desee. Sin embargo, la idea es que por cada día se presente un mapa diferente. Solo debes incluir una imagen del mapa, y cuando lo publiques en Twitter colocar los hashtags
+Cada participante podrá preparar sus datos y desarrollar un mapa el cual podrá presentar las veces que desee. Sin embargo, la idea es que por cada día se presente un mapa diferente. Solo debes incluir una imagen del mapa, y cuando lo publiques en **Twitter** <img src="_icon/twitter.svg" height="10px">  colocar los hashtags
 
 **#30DayMapChallenge**
 
@@ -16,7 +24,7 @@ Cada participante podrá preparar sus datos y desarrollar un mapa el cual podrá
 
 **#ComparteYlibérate**
 
-No existen restricciones en el uso de herramientas o plugins específicos o de tecnologías binarias de uso libre (vale decir, si utilizas otros softwares de `CÓDIGO DE USO LIBRE`). Si haces menos de 30, también está bien. **¡La idea es desarrollar!** 
+No existen restricciones en el uso de herramientas o plugins específicos o de tecnologías binarias de uso libre (vale decir, si utilizas otros softwares de `CÓDIGO DE USO LIBRE`). Si haces menos de 30, también está bien. **¡La idea es desarrollar!**
 
 
 Por favor, consulta nuestro código de conducta al final de la página.

@@ -92,13 +92,13 @@ es un tablero de control que muestra los datos actualizados oficiales de los cas
 Debido a que el desafío está dirigido a estar abierto para **todos**, las herramientas enumeradas aquí serán herramientas de **código abierto (de uso libre)**. Eso no significa que el desafío se pueda realizar con cualquier tipo de software (o incluso sin ningún software). Las habilidades de programación no son de ninguna manera un requisito para hacer los mapas. 💡🧮👇
 
 * [QGIS)](https://qgis.org/es/site/)
-es es una aplicación profesional de SIG que esta construida sobre, y orgullosa de ser, Software Libre y de Código Abierto (FOSS).
+es es una aplicación profesional de SIG que está construida sobre, y orgullosa de ser, Software Libre y de Código Abierto (FOSS).
 
 * [R](https://www.r-project.org)
 es un lenguaje de programación de análisis estadístico con herramientas gráficas muy avanzadas, y es un referente en el análisis estadístico desde hace muchos años. Existen diversas librerías espaciales para realizar cálculos avanzados espaciales.
 
 * [gvSIG](http://www.gvsig.com/es)
-es un proyecto de desarrollo de software para Sistemas de Información Geográfica basado en software libre, utilizando Jython como una implementaciónb de Python realizada en Java.
+es un proyecto de desarrollo de software para Sistemas de Información Geográfica basado en software libre, utilizando Jython como una implementación de Python realizada en Java.
 
 
 

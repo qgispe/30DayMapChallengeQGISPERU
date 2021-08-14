@@ -7,6 +7,8 @@
 </p>
 </table>
 
+![chall_9](https://user-images.githubusercontent.com/13573242/129452377-20c6d2f6-366d-4d28-b34d-824608e4644d.png)
+
 
 
 _¡Mapatón orientada a compartir mapas temáticos diversos por cada día del mes, empleando software de código de uso libre!_

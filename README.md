@@ -22,9 +22,9 @@ El propósito principal de esta mapatón es la de `crear y publicar` mapas basad
 
 Cada participante podrá preparar sus datos y desarrollar un mapa el cual podrá presentar las veces que desee. Sin embargo, la idea es que por cada día se presente un mapa diferente. Solo debes incluir una imagen del mapa, y cuando lo publiques en **Twitter** <img src="_icon/twitter.svg" height="10px">  colocar los hashtags
 
-**#30DayMapChallenge**
+**#30DayMapChallengeQGISPERU**
 
-**#QGISPerú**
+**#QGISPERU**
 
 **#ComparteYlibérate**
 

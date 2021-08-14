@@ -1,4 +1,4 @@
-<h1 align="center"><b>30DayMapChallengeQGISPERU</b> 🤜🇵🇪🌎🗺🤛</h1>
+<h1 align="center"><b>#30DayMapChallengeQGISPERU</b> 🤜🇵🇪🌎🗺🤛</h1>
 <table>
 <p align="center">
 <a href="https://github.com/qgispe"><img src="https://img.shields.io/badge/qgis-peru-%233BB300.svg?&style=for-the-badge&logo=qgis&logoColor=white"></a> <a><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=whit"></a> <a><img src= "https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"></a> <a><img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
@@ -18,7 +18,7 @@ _¡Mapatón orientada a compartir mapas temáticos diversos por cada día del me
 
 ¡Hola amigos! Recordemos que el repositorio oficial del ##30DayMapChallenge es un desafío diario, iniciado por nuestro amigo **Topi Tjukanov** con el propósito de **mapear/georreferenciar/cartografiar/visualizar/** datos que puedan ser relevantes para la comunidad espacial y para todos en general.
 
-El propósito principal de esta mapatón es la de `crear y publicar` mapas basados en diferentes temáticas** en cada uno de los días del mes en el que se desarrolle. Para ello se utilizará el hashtag #30DayMapChallenge y podremos ver el calendario de temas a continuación. ¡Es todo un reto, ehhh!
+El propósito principal de esta mapatón es la de `crear y publicar` mapas basados en diferentes temáticas** en cada uno de los días del mes en el que se desarrolle. Para ello se utilizará el hashtag #30DayMapChallengeQGISPERU y podremos ver el calendario de temas a continuación. ¡Es todo un reto, ehhh!
 
 Cada participante podrá preparar sus datos y desarrollar un mapa el cual podrá presentar las veces que desee. Sin embargo, la idea es que por cada día se presente un mapa diferente. Solo debes incluir una imagen del mapa, y cuando lo publiques en **Twitter** <img src="_icon/twitter.svg" height="10px">  colocar los hashtags
 
@@ -114,7 +114,7 @@ No importa si eres un experto en SIG o nunca hiciste un mapa, todos son bienveni
 - El desafío tiene que ver con la creatividad, la apertura y lo maravilloso que es trabajar con mapas y cartografía. No es una competencia, es diversión :)
 
 
-Inspirados para el challenge en #30DayMapChallenge
+Inspirados para el challenge en #30DayMapChallenge, Topi Tjukanov y la libertad de compartir y liberarnos.
 
 
 

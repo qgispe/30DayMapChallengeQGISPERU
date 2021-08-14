@@ -74,31 +74,31 @@ Por favor, consulta nuestro código de conducta al final de la página.
 Puede utilizar los datos que usted elija. Aquí hay algunas fuentes que podrían ayudarte a comenzar o tener nuevas ideas 💡🧮👇
 
 * [OpenStreetMap (OSM)](https://www.openstreetmap.org/#map=6/-9.301/-75.002)
-Es un proyecto colaborativo para crear un gran mapa editable,gratuito, y a nivel mundial. Hay últiples formas de aprovechar la información de OSM, tales como osmdata.xyz for gpk, Overpass API for GeoJSONs, etc.
+es un proyecto colaborativo para crear un gran mapa editable,gratuito, y a nivel mundial. Hay últiples formas de aprovechar la información de OSM, tales como osmdata.xyz for gpk, Overpass API for GeoJSONs, etc.
 
 * [Natural Earth Data](https://www.naturalearthdata.com/)
-Es un conjunto de datos de mapas de dominio público disponible a escalas 1:10 m, 1:50 my 1: 110 millones. Con datos vectoriales y ráster estrechamente integrados, con Natural Earth puede crear una variedad de mapas visualmente agradables y bien elaborados con cartografía o software GIS.
+es un conjunto de datos de mapas de dominio público disponible a escalas 1:10 m, 1:50 my 1: 110 millones. Con datos vectoriales y ráster estrechamente integrados, con Natural Earth puede crear una variedad de mapas visualmente agradables y bien elaborados con cartografía o software GIS.
 
 * [GEOPERU](https://www.geoperu.gob.pe/)
-Es una plataforma que permite identificasr brechas sociales, económicas, de infraestrucura, darle seguimiento y ejecución de proyectos, así como el soporte para la planificación y proyección territorial. Desarrollada por el Estado Peruano, utilizando 100% código de uso libre.
+es una plataforma que permite identificasr brechas sociales, económicas, de infraestrucura, darle seguimiento y ejecución de proyectos, así como el soporte para la planificación y proyección territorial. Desarrollada por el Estado Peruano, utilizando 100% código de uso libre.
 
 * [ESCALE](http://escale.minedu.gob.pe/)
-Es un portal web que permite el acceso a datos estadísticos del sector Educación, mediante módulos de consultas, visores de contenidos, mapas y descargas.
+es un portal web que permite el acceso a datos estadísticos del sector Educación, mediante módulos de consultas, visores de contenidos, mapas y descargas.
 
 * [Sala Situacional COVID-19 PERÚ](https://covid19.minsa.gob.pe/sala_situacional.asp)
-Es un tablero de control que muestra los datos actualizados oficiales de los casos positivos, fallecidos, letalidad, pruebas aplicadas, personas hospitalizadas, entre otros, respecto al COVID-19 en el Perú.
+es un tablero de control que muestra los datos actualizados oficiales de los casos positivos, fallecidos, letalidad, pruebas aplicadas, personas hospitalizadas, entre otros, respecto al COVID-19 en el Perú.
 
 ## HERRAMIENTAS 🔧⚙ ##
 Debido a que el desafío está dirigido a estar abierto para **todos**, las herramientas enumeradas aquí serán herramientas de **código abierto (de uso libre)**. Eso no significa que el desafío se pueda realizar con cualquier tipo de software (o incluso sin ningún software). Las habilidades de programación no son de ninguna manera un requisito para hacer los mapas. 💡🧮👇
 
 * [QGIS)](https://qgis.org/es/site/)
-Es es una aplicación profesional de SIG que esta construida sobre, y orgullosa de ser, Software Libre y de Código Abierto (FOSS).
+es es una aplicación profesional de SIG que esta construida sobre, y orgullosa de ser, Software Libre y de Código Abierto (FOSS).
 
 * [R](https://www.r-project.org)
-Lenguaje de programación de análisis estadístico con herramientas gráficas muy avanzadas, y es un referente en el análisis estadístico desde hace muchos años. Existen diversas librerías espaciales para realizar cálculos avanzados espaciales.
+es un lenguaje de programación de análisis estadístico con herramientas gráficas muy avanzadas, y es un referente en el análisis estadístico desde hace muchos años. Existen diversas librerías espaciales para realizar cálculos avanzados espaciales.
 
 * [gvSIG](http://www.gvsig.com/es)
-Proyecto de desarrollo de software para Sistemas de Información Geográfica basado en software libre, utilizando Jython como una implementaciónb de Python realizada en Java.
+es un proyecto de desarrollo de software para Sistemas de Información Geográfica basado en software libre, utilizando Jython como una implementaciónb de Python realizada en Java.
 
 
 

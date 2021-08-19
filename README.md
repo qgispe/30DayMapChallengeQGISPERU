@@ -1,26 +1,23 @@
 <h1 align="center"><b>#30DayMapChallengeQGISPERU</b> 🤜🇵🇪🌎🗺🤛</h1>
 <table>
 <p align="center">
-<a href="https://github.com/qgispe"><img src="https://img.shields.io/badge/qgis-peru-%233BB300.svg?&style=for-the-badge&logo=qgis&logoColor=white"></a> <a><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=whit"></a> <a><img src= "https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"></a> <a><img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen
-"></a> <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a> <a><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></a> <a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a> <a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
-"></a> <a><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a> <a><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a> <a><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a> <a href="www.linkedin.com/in/qgispe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/qgispe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://t.me/qgisperu"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>  <a href="https://www.youtube.com/channel/UCj5_XjZ-KpYBYhyrpjXJjcA"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://github.com/qgispe"><img src="https://img.shields.io/badge/qgis-peru-%233BB300.svg?&style=for-the-badge&logo=qgis&logoColor=white"></a> <a><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"></a> <a><img src= "https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"></a> <a><img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></a> <a><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> <a><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a> <a><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></a> <a><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a> <a><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> <a><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a> <a><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a> <a><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a> <a href="www.linkedin.com/in/qgispe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/qgispe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://t.me/qgisperu"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCj5_XjZ-KpYBYhyrpjXJjcA"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
 </table>
 
 ![chall_9](https://user-images.githubusercontent.com/13573242/129452783-ad8ceecf-a8ea-40cf-a607-1fcc01011d30.png)
 
 
-
-
 _¡Mapatón orientada a compartir mapas temáticos diversos por cada día del mes, empleando software de código de uso libre!_
 
-## Proyecto de mapeo social diario para el mes de septiembre del 2021 🚀
+## __PROYECTO DE MAPEO SOCIAL DIARIO PARA EL MES DE SEPTIEMBRE DEL 2021__ 🚀
 
 ¡Hola amigos! Recordemos que el repositorio oficial del ##30DayMapChallenge es un desafío diario, iniciado por nuestro amigo **Topi Tjukanov** con el propósito de **mapear/georreferenciar/cartografiar/visualizar/** datos que puedan ser relevantes para la comunidad espacial y para todos en general.
 
 El propósito principal de esta mapatón es la de `crear y publicar` mapas basados en diferentes temáticas** en cada uno de los días del mes en el que se desarrolle. Para ello se utilizará el hashtag #30DayMapChallengeQGISPERU y podremos ver el calendario de temas a continuación. ¡Es todo un reto, ehhh!
 
-Cada participante podrá preparar sus datos y desarrollar un mapa el cual podrá presentar las veces que desee. Sin embargo, la idea es que por cada día se presente un mapa diferente. Solo debes incluir una imagen del mapa, y cuando lo publiques en **Twitter** <img src="_icon/twitter.svg" height="10px">  colocar los hashtags
+Cada participante podrá preparar sus datos y desarrollar un mapa el cual podrá presentar las veces que desee. Sin embargo, la idea es que por cada día se presente un mapa diferente. Solo debes incluir una imagen del mapa, y cuando lo publiques en **Twitter** <img src="_icon/twitter.svg" height="10px">  colocar los hashtags:
 
 **#30DayMapChallengeQGISPERU**
 
@@ -34,7 +31,7 @@ No existen restricciones en el uso de herramientas o plugins específicos o de t
 Por favor, consulta nuestro código de conducta al final de la página.
 
 
-## Temas 📆 ##
+## __TEMAS__ 📆
 
 | Día | Fecha | Tema | Detalles |
 | ------------- | ------------- | ------------- | ------------- |
@@ -70,51 +67,52 @@ Por favor, consulta nuestro código de conducta al final de la página.
 | 	30	 | 	30/09/2020	 | 	Un mapa libre	 | 	Sin reglas. Has llegado hasta aquí, así que haz lo que quieras. Solo haz un mapa.	  |
 
 
-## DATOS 📍📌 ##
+## __DATOS__ 📍📌
 Puede utilizar los datos que usted elija. Aquí hay algunas fuentes que podrían ayudarte a comenzar o tener nuevas ideas 💡🧮👇
 
-* [OpenStreetMap (OSM)](https://www.openstreetmap.org/#map=6/-9.301/-75.002)
-es un proyecto colaborativo para crear un gran mapa editable,gratuito, y a nivel mundial. Hay últiples formas de aprovechar la información de OSM, tales como osmdata.xyz for gpk, Overpass API for GeoJSONs, etc.
+* [__OpenStreetMap (OSM)__:](https://www.openstreetmap.org/#map=6/-9.301/-75.002)
+Es un proyecto colaborativo para crear un gran mapa editable,gratuito, y a nivel mundial. Hay últiples formas de aprovechar la información de OSM, tales como osmdata.xyz for gpk, Overpass API for GeoJSONs, etc.
 
-* [Natural Earth Data](https://www.naturalearthdata.com/)
-es un conjunto de datos de mapas de dominio público disponible a escalas 1:10 m, 1:50 my 1: 110 millones. Con datos vectoriales y ráster estrechamente integrados, con Natural Earth puede crear una variedad de mapas visualmente agradables y bien elaborados con cartografía o software GIS.
+* [__Natural Earth Data___](https://www.naturalearthdata.com/)
+Es un conjunto de datos de mapas de dominio público disponible a escalas 1:10 m, 1:50 my 1: 110 millones. Con datos vectoriales y ráster estrechamente integrados, con Natural Earth puede crear una variedad de mapas visualmente agradables y bien elaborados con cartografía o software GIS.
 
-* [GEOPERU](https://www.geoperu.gob.pe/)
-es una plataforma que permite identificasr brechas sociales, económicas, de infraestrucura, darle seguimiento y ejecución de proyectos, así como el soporte para la planificación y proyección territorial. Desarrollada por el Estado Peruano, utilizando 100% código de uso libre.
+* [__GEOPERU__:](https://www.geoperu.gob.pe/)
+Es una plataforma que permite identificasr brechas sociales, económicas, de infraestrucura, darle seguimiento y ejecución de proyectos, así como el soporte para la planificación y proyección territorial. Desarrollada por el Estado Peruano, utilizando 100% código de uso libre.
 
-* [ESCALE](http://escale.minedu.gob.pe/)
-es un portal web que permite el acceso a datos estadísticos del sector Educación, mediante módulos de consultas, visores de contenidos, mapas y descargas.
+* [__ESCALE__:](http://escale.minedu.gob.pe/)
+Es un portal web que permite el acceso a datos estadísticos del sector Educación, mediante módulos de consultas, visores de contenidos, mapas y descargas.
 
-* [Sala Situacional COVID-19 PERÚ](https://covid19.minsa.gob.pe/sala_situacional.asp)
-es un tablero de control que muestra los datos actualizados oficiales de los casos positivos, fallecidos, letalidad, pruebas aplicadas, personas hospitalizadas, entre otros, respecto al COVID-19 en el Perú.
+* [__Sala Situacional COVID-19 PERÚ__:](https://covid19.minsa.gob.pe/sala_situacional.asp)
+Es un tablero de control que muestra los datos actualizados oficiales de los casos positivos, fallecidos, letalidad, pruebas aplicadas, personas hospitalizadas, entre otros, respecto al COVID-19 en el Perú.
 
-## HERRAMIENTAS 🔧⚙ ##
+## __HERRAMIENTAS__ 🔧⚙
 Debido a que el desafío está dirigido a estar abierto para **todos**, las herramientas enumeradas aquí serán herramientas de **código abierto (de uso libre)**. Eso no significa que el desafío se pueda realizar con cualquier tipo de software (o incluso sin ningún software). Las habilidades de programación no son de ninguna manera un requisito para hacer los mapas. 💡🧮👇
 
-* [QGIS)](https://qgis.org/es/site/)
-es es una aplicación profesional de SIG que está construida sobre, y orgullosa de ser, Software Libre y de Código Abierto (FOSS).
+* [__QGIS:__ ](https://qgis.org/es/site/)
+Es es una aplicación profesional de SIG que está construida sobre, y orgullosa de ser, Software Libre y de Código Abierto (FOSS).
 
-* [R](https://www.r-project.org)
-es un lenguaje de programación de análisis estadístico con herramientas gráficas muy avanzadas, y es un referente en el análisis estadístico desde hace muchos años. Existen diversas librerías espaciales para realizar cálculos avanzados espaciales.
+* [__R:__ ](https://www.r-project.org)
+Es un lenguaje de programación de análisis estadístico con herramientas gráficas muy avanzadas, y es un referente en el análisis estadístico desde hace muchos años. Existen diversas librerías espaciales para realizar cálculos avanzados espaciales.
 
-* [gvSIG](http://www.gvsig.com/es)
-es un proyecto de desarrollo de software para Sistemas de Información Geográfica basado en software libre, utilizando Jython como una implementación de Python realizada en Java.
+* [__gvSIG:__ ](http://www.gvsig.com/es)
+Es un proyecto de desarrollo de software para Sistemas de Información Geográfica basado en software libre, utilizando Jython como una implementación de Python realizada en Java.
 
+## __RECURSOS__ 🎨 📑
 
+* [__Symbology-Hub:__ ](https://github.com/qgispe/Symbology-Hub) Simbología variada para la elaboración de mapas temáticos.
 
-## RECURSOS DE AYUDA 🛸🕌 ##
-Si desea hacer mapas con QGIS, este [canal](https://www.youtube.com/channel/UCj5_XjZ-KpYBYhyrpjXJjcA) es un excelente punto de partida.
+* [__Patches:__ ](https://github.com/qgispe/QGIS-Patches-Peru) Patches perzonalizados para Perú y otros.
 
-
-## Código de Conducta 📜⚖ ##
+## __CÓDIGO DE CONDUCTA__ 📜⚖
 No importa si eres un experto en SIG o nunca hiciste un mapa, todos son bienvenidos a participar. Sin embargo, ten en cuenta algunas cosas:
 
 - Todos los mapas que publiques deben ser su trabajo original. No robes contenido de otros.
 - Dé crédito a la fuente de datos original siempre que sea posible.
 - El desafío tiene que ver con la creatividad, la apertura y lo maravilloso que es trabajar con mapas y cartografía. No es una competencia, es diversión :)
 
+## __REFERENCIA__
 
-Inspirados para el challenge en #30DayMapChallenge, Topi Tjukanov y la libertad de compartir y liberarnos.
+Inspirados para el challenge en [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge), [Topi Tjukanov](https://github.com/tjukanovt) y la libertad de compartir y liberarnos.
 
 
 

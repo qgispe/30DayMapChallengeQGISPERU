@@ -6,7 +6,7 @@
 </p>
 </table>
 
-![chall_9](https://user-images.githubusercontent.com/13573242/129452783-ad8ceecf-a8ea-40cf-a607-1fcc01011d30.png)
+<center><a href="#"><img src="_flyer/flyer.png"></a></center>
 
 
 _¡Mapatón orientada a compartir mapas temáticos diversos por cada día del mes, empleando software de código de uso libre!_

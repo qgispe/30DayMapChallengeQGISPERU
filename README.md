@@ -1,7 +1,7 @@
 <h1 align="center"><b>#30DayMapChallengeQGISPERU</b> 🇵🇪🌎🗺</h1>
 <table>
 <p align="center">
-<a href="https://github.com/qgispe"><img src="https://img.shields.io/badge/qgis-peru-%233BB300.svg?&style=for-the-badge&logo=qgis&logoColor=white"></a> <a href="https://www.rstudio.com/products/rstudio/download/#download"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"></a> <a href="https://inkscape.org/release/inkscape-1.1/"><img src= "https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"></a> <a href="https://www.python.org/downloads/"><img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></a> <a href="https://github.com/Asabeneh/30-Days-Of-HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> <a href="https://github.com/cunhasbia/30-days-of-CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> <a href="https://github.com/wesbos/JavaScript30"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a> <a href="https://plotly.com/python/getting-started/"><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></a> <a href="https://launchpad.net/~ubuntugis"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a> <a href="https://www.microsoft.com/es-es/software-download/windows10ISO"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a> <a href="https://www.apple.com/la/mac/"><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"></a> <a href="https://www.postgresql.org/download/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a> <a href="https://www.sqlite.org/download.html"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a> <a href="www.linkedin.com/in/qgispe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/qgispe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://t.me/qgisperu"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCj5_XjZ-KpYBYhyrpjXJjcA"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://www.instagram.com/qgispe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href=" https://www.facebook.com/qgispe"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://github.com/qgispe"><img src="https://img.shields.io/badge/qgis-peru-%233BB300.svg?&style=for-the-badge&logo=qgis&logoColor=white"></a> <a href="https://www.rstudio.com/products/rstudio/download/#download"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"></a> <a href="https://inkscape.org/release/inkscape-1.1/"><img src= "https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"></a> <a href="https://www.python.org/downloads/"><img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></a> <a href="https://github.com/Asabeneh/30-Days-Of-HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> <a href="https://github.com/oluwakayode-a/30-Days-of-CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> <a href="https://github.com/wesbos/JavaScript30"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a> <a href="https://plotly.com/python/getting-started/"><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></a> <a href="https://www.postgresql.org/download/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a> <a href="https://www.sqlite.org/download.html"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a> <a href="www.linkedin.com/in/qgispe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/qgispe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://t.me/qgisperu"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCj5_XjZ-KpYBYhyrpjXJjcA"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://www.instagram.com/qgispe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href=" https://www.facebook.com/qgispe"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
 </table>
 
@@ -16,7 +16,7 @@ _¡Mapatón orientada a compartir mapas temáticos diversos por cada día del me
 
 El propósito principal de esta mapatón es la de `crear y publicar` mapas basados en diferentes temáticas** en cada uno de los días del mes en el que se desarrolle. Para ello se utilizará el hashtag #30DayMapChallengeQGISPERU y podremos ver el calendario de temas a continuación. ¡Es todo un reto, ehhh!
 
-Cada participante podrá preparar sus datos y desarrollar un mapa el cual podrá presentar las veces que desee. Sin embargo, la idea es que por cada día se presente un mapa diferente. Solo debes incluir una imagen del mapa, y cuando lo publiques en **Twitter** <img src="_icon/twitter.svg" height="10px">  colocar los hashtags:
+Cada participante podrá preparar sus datos y desarrollar un mapa el cual podrá presentar las veces que desee. Sin embargo, la idea es que por cada día se presente un mapa diferente. Solo debes incluir una imagen del mapa, y cuando lo publiques en **Twitter** <img src="_icon/twitter.svg" height="20px">  colocar los hashtags:
 
 **#30DayMapChallengeQGISPERU**
 
@@ -66,7 +66,7 @@ Por favor, consulta nuestro código de conducta al final de la página.
 | 	30	 | 	30/09/2020	 | 	Un mapa libre	 | 	Sin reglas. Has llegado hasta aquí, así que haz lo que quieras. Solo haz un mapa.	  |
 
 
-## __DATOS__ 📍📌
+## __DATOS + RECURSOS__ 📁 📍
 Puede utilizar los datos que usted elija. Aquí hay algunas fuentes que podrían ayudarte a comenzar o tener nuevas ideas 💡🧮👇
 
 * [__OpenStreetMap (OSM)__:](https://www.openstreetmap.org/#map=6/-9.301/-75.002)
@@ -84,23 +84,58 @@ Es un portal web que permite el acceso a datos estadísticos del sector Educaci�
 * [__Sala Situacional COVID-19 PERÚ__:](https://covid19.minsa.gob.pe/sala_situacional.asp)
 Es un tablero de control que muestra los datos actualizados oficiales de los casos positivos, fallecidos, letalidad, pruebas aplicadas, personas hospitalizadas, entre otros, respecto al COVID-19 en el Perú.
 
+* [__Symbology-Hub:__ ](https://github.com/qgispe/Symbology-Hub) Simbología variada para la elaboración de mapas temáticos.
+
+* [__Patches:__ ](https://github.com/qgispe/QGIS-Patches-Peru) Patches perzonalizados para Perú y otros.
+
+
 ## __HERRAMIENTAS__ 🔧⚙
 Debido a que el desafío está dirigido a estar abierto para **todos**, las herramientas enumeradas aquí serán herramientas de **código abierto (de uso libre)**. Eso no significa que el desafío se pueda realizar con cualquier tipo de software (o incluso sin ningún software). Las habilidades de programación no son de ninguna manera un requisito para hacer los mapas. 💡🧮👇
 
 * [__QGIS:__ ](https://qgis.org/es/site/)
 Es es una aplicación profesional de SIG que está construida sobre, y orgullosa de ser, Software Libre y de Código Abierto (FOSS).
 
-* [__R:__ ](https://www.r-project.org)
-Es un lenguaje de programación de análisis estadístico con herramientas gráficas muy avanzadas, y es un referente en el análisis estadístico desde hace muchos años. Existen diversas librerías espaciales para realizar cálculos avanzados espaciales.
-
 * [__gvSIG:__ ](http://www.gvsig.com/es)
 Es un proyecto de desarrollo de software para Sistemas de Información Geográfica basado en software libre, utilizando Jython como una implementación de Python realizada en Java.
 
-## __RECURSOS__ 🎨 📑
+* [__R:__ ](https://www.r-project.org)
+Es un lenguaje de programación de análisis estadístico con herramientas gráficas muy avanzadas, y es un referente en el análisis estadístico desde hace muchos años. Existen diversas librerías espaciales para realizar cálculos avanzados espaciales.
 
-* [__Symbology-Hub:__ ](https://github.com/qgispe/Symbology-Hub) Simbología variada para la elaboración de mapas temáticos.
+* [__Python:__ ]()
 
-* [__Patches:__ ](https://github.com/qgispe/QGIS-Patches-Peru) Patches perzonalizados para Perú y otros.
+
+* [__Js:__ ]()
+
+
+* [__PostgreSQL:__ ]()
+
+
+* [__SQLite:__ ]()
+
+
+* [__HTML:__ ]()
+
+
+* [__CSS:__ ]()
+
+
+* [__Plotly:__ ]()
+
+
+* [__Kepler:__ ]()
+
+
+* [__Blender:__ ]()
+
+
+
+## __TUTORIALES__ 🎥 👩‍💻 👨‍💻
+
+<center><b>Un taller introductorio de QGIS para principiantes</b></center>| <center><b>Buenas prácticas con QGIS aplicado a los recursos hídricos</b></center>
+--------|---------
+ [![add_col_area_perimetro](https://img.youtube.com/vi/-7v5qfJYWxA/0.jpg)](https://www.youtube.com/watch?v=-7v5qfJYWxA "Un taller introductorio de QGIS para principiantes")| [![add_col_area_perimetro](https://img.youtube.com/vi/6upwMfROKuI/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "Buenas prácticas con QGIS aplicado a los recursos hídricos")
+
+
 
 ## __CÓDIGO DE CONDUCTA__ 📜⚖
 No importa si eres un experto en SIG o nunca hiciste un mapa, todos son bienvenidos a participar. Sin embargo, ten en cuenta algunas cosas:
@@ -109,9 +144,13 @@ No importa si eres un experto en SIG o nunca hiciste un mapa, todos son bienveni
 - Dé crédito a la fuente de datos original siempre que sea posible.
 - El desafío tiene que ver con la creatividad, la apertura y lo maravilloso que es trabajar con mapas y cartografía. No es una competencia, es diversión :)
 
-## __REFERENCIA__
+## __REFERENCIAS__ 📝
 
-Inspirados para el challenge en [#30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge), [Topi Tjukanov](https://github.com/tjukanovt) y la libertad de compartir y liberarnos.
+ * *Topi Tjukanov, __#30DayMapChallenge__, (2020), repositorio de GitHub: https://github.com/tjukanovt/30DayMapChallenge*
 
+* *Asabeneh, **30-Days-Of-HTML**,(2021),repositorio de GitHub: https://github.com/Asabeneh/30-Days-Of-HTML*
 
+* *Oladipo Kayode, **30-Days-Of-CSS**,(2020), repositorio de GitHub: https://github.com/oluwakayode-a/30-Days-of-CSS*
+
+* *Antony Barja, __Buenas prácticas con QGIS aplicado a Recursos Hídricos__,(2021),repositorio de GitHub: https://github.com/ambarja/Buenas-practicas-con-QGIS*
 

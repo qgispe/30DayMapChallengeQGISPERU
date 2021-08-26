@@ -7,7 +7,6 @@
 
 <center><a href="#"><img src="_flyer/flyer.png"></a></center>
 
-
 _¡Mapatón orientada a compartir mapas temáticos diversos por cada día del mes, empleando software de código de uso libre!_
 
 ## __PROYECTO DE MAPEO SOCIAL DIARIO PARA EL MES DE SEPTIEMBRE DEL 2021__ 🚀

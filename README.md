@@ -25,7 +25,6 @@ Cada participante podrá preparar sus datos y desarrollar un mapa el cual podrá
 
 No existen restricciones en el uso de herramientas o plugins específicos o de tecnologías binarias de uso libre (vale decir, si utilizas otros softwares de `CÓDIGO DE USO LIBRE`). Si haces menos de 30, también está bien. **¡La idea es desarrollar!**
 
-
 Por favor, consulta nuestro código de conducta al final de la página.
 
 

@@ -131,10 +131,9 @@ Es un lenguaje de programación de análisis estadístico con herramientas gráf
 
 ## __TUTORIALES__ 🎥 👩‍💻 👨‍💻
 
-<center><b>Un taller introductorio de QGIS para principiantes</b></center>| <center><b>Buenas prácticas con QGIS aplicado a los recursos hídricos</b></center>
+Un taller introductorio de QGIS para principiantes| Buenas prácticas con QGIS aplicado a los recursos hídricos
 --------|---------
- [![add_col_area_perimetro](https://img.youtube.com/vi/-7v5qfJYWxA/0.jpg)](https://www.youtube.com/watch?v=-7v5qfJYWxA "Un taller introductorio de QGIS para principiantes")| [![add_col_area_perimetro](https://img.youtube.com/vi/6upwMfROKuI/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "Buenas prácticas con QGIS aplicado a los recursos hídricos")
-
+ [![add_col_area_perimetro](https://img.youtube.com/vi/-7v5qfJYWxA/0.jpg)](https://www.youtube.com/watch?v=-7v5qfJYWxA "Un taller introductorio de QGIS para principiantes") | [![add_col_area_perimetro](https://img.youtube.com/vi/6upwMfROKuI/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "Buenas prácticas con QGIS aplicado a los recursos hídricos")
 
 
 ## __CÓDIGO DE CONDUCTA__ 📜⚖

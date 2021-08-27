@@ -119,8 +119,7 @@ Es un programa informático multiplataforma, de código de uso libre, que permit
 
 Un taller introductorio de QGIS para principiantes| Buenas prácticas con QGIS aplicado a los recursos hídricos| Leyenda personalizada de un mapa arqueológico en QGIS - nivel inicial
 --------|---------|---------
- [![add_col_area_perimetro](https://img.youtube.com/vi/-7v5qfJYWxA/0.jpg)](https://www.youtube.com/watch?v=-7v5qfJYWxA "Un taller introductorio de QGIS para principiantes") | [![add_col_area_perimetro](https://img.youtube.com/vi/6upwMfROKuI/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "Buenas prácticas con QGIS aplicado a los recursos hídricos") | [![add_col_area_perimetro](https://img.youtube.com/vi/kPsdYd85kGI/0.jpg)](https://www.youtube.com/watch?v=kPsdYd85kGI "Leyenda personalizada de un mapa arqueológico en QGIS - nivel inicial")
-
+ [![add_col_area_perimetro](https://img.youtube.com/vi/-7v5qfJYWxA/0.jpg)](https://www.youtube.com/watch?v=-7v5qfJYWxA "Un taller introductorio de QGIS para principiantes") | [![add_col_area_perimetro](https://img.youtube.com/vi/6upwMfROKuI/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "Buenas prácticas con QGIS aplicado a los recursos hídricos") | <a href="https://www.youtube.com/watch?v=kPsdYd85kGI"><img src="https://raw.githubusercontent.com/qgispe/CoffeewithPlugins/master/presentaciones/cof_plug_6/resources/qgispe_ccp_6_.png" width=650px title="Leyenda personalizada de un mapa arqueológico en QGIS - nivel inicial" ></a>
 
 ## __CÓDIGO DE CONDUCTA__ 📜⚖
 No importa si eres un experto en SIG o nunca hiciste un mapa, todos son bienvenidos a participar. Sin embargo, ten en cuenta algunas cosas:

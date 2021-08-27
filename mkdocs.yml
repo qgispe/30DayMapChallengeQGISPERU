@@ -1,12 +1,12 @@
 ## Project information
-site_name: Dagli OpenData all&rsquo;OpenSource&#58; Lavorare in QGIG con le mappe catastali
+site_name: Comparte y libérate
 site_url: https://github.com/pigreco/workshop-estate-gis-2021#piattaforme-e-software
 site_description: Obiettivo di questo workshop è quello di evidenziare le potenzialità delle analisi geografiche usando opendata e software Open Source. Realizzeremo un progetto QGIS utilizzando, come fonte dei dati, il WMS dell'AdE e vedremo come aggiungere il servizio WMS, come estrarre i dati esposti usando il filed calc, e infine come digitalizzare velocemente le particelle catastali usando vari plugin.
 site_author: Salvatore Fiandaca
 
 ## Repository
-repo_name: workshop-estate-gis-2021
-repo_url: https://github.com/pigreco/workshop-estate-gis-2021/
+repo_name: 30DaysMapChallengeQGISPE
+repo_url: https://github.com/qgispe/30DayMapChallengeQGISPERU/
 edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
@@ -17,7 +17,7 @@ extra:
   manifest: "manifest.webmanifest"
   social:
     - icon: fontawesome/solid/home
-      link: https://pigreco.github.io/workshop-estate-gis-2021/
+      link: https://github/qgispe/30DayMapChallengeQGISPERU/
     - icon: fontawesome/brands/twitter
       link: http://twitter.com/opendatasicilia
       name: account twitter
@@ -42,7 +42,7 @@ extra:
   analytics:
     provider: google
     property: UA-122084242-1
-    
+
 # Configuration
 theme:
   name: material
@@ -82,8 +82,8 @@ plugins:
 - search
 - mkdocstrings
 - autolinks
-- macros   
-# - img2fig 
+- macros
+# - img2fig
 - print-site:
     add_to_navigation: false
     print_page_title: 'Stampa il documento in pdf'
@@ -101,12 +101,12 @@ plugins:
     cover_page_template: "docs/pdf/cover_page.tpl"
     path_to_pdf: "Dagli_OpenData_all_OpenSource_ Lavorare_in_QGIG_con_le_mappe_catastali.pdf"
     exclude:
-    
+
 - rss:
     abstract_chars_count: 160
     date_from_meta:
         as_creation: "date"
-        as_update: false 
+        as_update: false
         datetime_format: "%d-%m-%Y"
     # datetime_format: "%Y-%m-%d"
     image: https://materialmkdocs-gb.readthedocs.io/it/latest/img/hfc_rss.png
@@ -117,12 +117,12 @@ plugins:
     url_parameters:
         utm_source: "documentation"
         utm_medium: "RSS"
-        utm_campaign: "feed-syndication"    
+        utm_campaign: "feed-syndication"
 
 markdown_extensions:
 - toc:
         permalink: ↵
-- meta        
+- meta
 - mkdocs-click
 - pymdownx.highlight
 - pymdownx.superfences
@@ -151,10 +151,10 @@ markdown_extensions:
 ## Custom theme additions
 extra_javascript:
    - stylesheets/extra.js
- 
+
 extra_css:
    - stylesheets/gbextra.css
-  
+
 ## Page tree
 nav:
     - Home: index.md
@@ -166,6 +166,6 @@ nav:
             - Risultati evento: risultati.md
             - Cosa c&rsquo;è in questo repo: repo.md
             - Contatti: contatti.md
-    - HfcQGIS: "http://hfcqgis.opendatasicilia.it/"   
-    - OpenDataSicilia: ods.md        
-    - Informativa privacy estesa: privacy.md   
+    - HfcQGIS: "http://hfcqgis.opendatasicilia.it/"
+    - OpenDataSicilia: ods.md
+    - Informativa privacy estesa: privacy.md

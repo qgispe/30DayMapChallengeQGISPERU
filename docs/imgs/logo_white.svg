@@ -1,33 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="650"
    height="160"
    viewBox="0 0 171.97917 42.333333"
    version="1.1"
    id="svg8"
-   sodipodi:docname="logo.svg"
-   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   sodipodi:docname="logo_white.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
   <defs
      id="defs2" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2073919"
-     inkscape:cx="409.14636"
-     inkscape:cy="138.72877"
+     inkscape:zoom="0.60369595"
+     inkscape:cx="248.73957"
+     inkscape:cy="135.26677"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -38,12 +36,13 @@
      showguides="true"
      inkscape:guide-bbox="true"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="1272"
-     inkscape:window-y="-8"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="false"
+     inkscape:document-rotation="0">
     <sodipodi:guide
        position="72.519053,13.010062"
        orientation="1,0"
@@ -63,6 +62,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -75,27 +75,28 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:19.05px;line-height:125%;font-family:Trueno;-inkscape-font-specification:'Trueno, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.313948px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="24.817621"
-       y="216.18639"
+       x="34.450428"
+       y="214.67368"
        id="text50"
        inkscape:export-filename="H:\Archivio Lavori\Web\HfcQGIS\In Progess\in_progress\hfc_white.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan48"
-         x="24.817621"
-         y="216.18639"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:19.05px;font-family:Trueno;-inkscape-font-specification:'Trueno, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.313948px;stroke-opacity:1">ESTATE GIS 2021</tspan></text>
+         x="34.450428"
+         y="214.67368"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:19.05px;font-family:Trueno;-inkscape-font-specification:'Trueno, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.313948px;stroke-opacity:1">QGISPE 2021</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15.875px;line-height:125%;font-family:Trueno;-inkscape-font-specification:'Trueno, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.65374px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="28.581593"
-       y="234.03957"
-       id="text960"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:13.409px;line-height:125%;font-family:Trueno;-inkscape-font-specification:'Trueno, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.552188px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="22.647867"
+       y="224.83441"
+       id="text960"
+       transform="scale(0.96697184,1.0341563)"><tspan
          sodipodi:role="line"
          id="tspan958"
-         x="28.581593"
-         y="234.03957"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:15.875px;font-family:Trueno;-inkscape-font-specification:'Trueno, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.65374px">Workshop  - UNIPD</tspan></text>
+         x="22.647867"
+         y="224.83441"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:13.409px;font-family:Trueno;-inkscape-font-specification:'Trueno, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke-width:0.552188px">#30DaysMapChallenge</tspan></text>
   </g>
 </svg>

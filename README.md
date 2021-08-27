@@ -109,7 +109,7 @@ Es un lenguaje de programación que permite crear contenido dinámico para pági
 Es un gestor de bases de datos relacionales que nativamente trabaja en el entorno de QGIS, desde su extensión [**PostGIS**](https://postgis.net/).
 
 * [__SQLite:__ ](https://www.sqlite.org/index.html)
-Es un gestor de bases de datos que nos permite administrar bases de datos relacionales orientado a dispositivos móviles.
+Es un sistema de gestión de base de datos (DBMS) que es simple, robusto, fácil de usar y muy ligero. Cada base de datos SQLite es simplemente un archivo. Puede libremente copiar, comprimirlo y portarlo entre Windows, Linux, MacOs, etc. Este presenta una extesión llamada [**SpatiaLite**](https://www.gaia-gis.it/fossil/libspatialite/index) que nos permite manejar base de datos espaciales.
 
 * [__Blender:__ ](https://www.blender.org/)
 Es un programa informático multiplataforma, de código de uso libre, que permite el modelado 3D, animaciones, efectos visuales, entre otros. Con su librería Blender GIS, nos permite realizar diversos modelamientos espaciales.

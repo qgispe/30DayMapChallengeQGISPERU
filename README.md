@@ -99,46 +99,34 @@ Es un proyecto de desarrollo de software para Sistemas de Información Geográfi
 * [__R:__ ](https://www.r-project.org)
 Es un lenguaje de programación de análisis estadístico con herramientas gráficas muy avanzadas, y es un referente en el análisis estadístico desde hace muchos años. Existen diversas librerías espaciales para realizar cálculos avanzados espaciales.
 
-* [__Python:__ ]()
+* [__Python:__ ](https://www.python.org/)
+Es un lenguaje de programación versátil, multiparadigma, de código abierto y utilizado ampliamente en sistemas de información geográfica, tanto de código de uso libre como licenciado. PyQGIS es una de sus librerías que es utilizada nativamente con **QGIS**.
 
+* [__Javascript:__ ](https://www.javascript.com/)
+Es un lenguaje de programación que permite crear contenido dinámico para páginas web. [**Leaflet**](https://leafletjs.com/) es una de sus librerías estrella para el uso de geovisores.
 
-* [__Js:__ ]()
+* [__PostgreSQL:__ ](https://www.postgresql.org/)
+Es un gestor de bases de datos relacionales que nativamente trabaja en el entorno de QGIS, desde su extensión [**PostGIS**](https://postgis.net/).
 
+* [__SQLite:__ ](https://www.sqlite.org/index.html)
+Es un gestor de bases de datos que nos permite administrar bases de datos relacionales orientado a dispositivos móviles.
 
-* [__PostgreSQL:__ ]()
-
-
-* [__SQLite:__ ]()
-
-
-* [__HTML:__ ]()
-
-
-* [__CSS:__ ]()
-
-
-* [__Plotly:__ ]()
-
-
-* [__Kepler:__ ]()
-
-
-* [__Blender:__ ]()
-
+* [__Blender:__ ](https://www.blender.org/)
+Es un programa informático multiplataforma, de código de uso libre, que permite el modelado 3D, animaciones, efectos visuales, entre otros. Con su librería Blender GIS, nos permite realizar diversos modelamientos espaciales.
 
 
 ## __TUTORIALES__ 🎥 👩‍💻 👨‍💻
 
-Un taller introductorio de QGIS para principiantes| Buenas prácticas con QGIS aplicado a los recursos hídricos
---------|---------
- [![add_col_area_perimetro](https://img.youtube.com/vi/-7v5qfJYWxA/0.jpg)](https://www.youtube.com/watch?v=-7v5qfJYWxA "Un taller introductorio de QGIS para principiantes") | [![add_col_area_perimetro](https://img.youtube.com/vi/6upwMfROKuI/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "Buenas prácticas con QGIS aplicado a los recursos hídricos")
+Un taller introductorio de QGIS para principiantes| Buenas prácticas con QGIS aplicado a los recursos hídricos| Leyenda personalizada de un mapa arqueológico en QGIS - nivel inicial
+--------|---------|---------
+ [![add_col_area_perimetro](https://img.youtube.com/vi/-7v5qfJYWxA/0.jpg)](https://www.youtube.com/watch?v=-7v5qfJYWxA "Un taller introductorio de QGIS para principiantes") | [![add_col_area_perimetro](https://img.youtube.com/vi/6upwMfROKuI/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "Buenas prácticas con QGIS aplicado a los recursos hídricos") | [![add_col_area_perimetro](https://img.youtube.com/vi/kPsdYd85kGI/0.jpg)](https://www.youtube.com/watch?v=kPsdYd85kGI "Leyenda personalizada de un mapa arqueológico en QGIS - nivel inicial")
 
 
 ## __CÓDIGO DE CONDUCTA__ 📜⚖
 No importa si eres un experto en SIG o nunca hiciste un mapa, todos son bienvenidos a participar. Sin embargo, ten en cuenta algunas cosas:
 
 - Todos los mapas que publiques deben ser su trabajo original. No robes contenido de otros.
-- Dé crédito a la fuente de datos original siempre que sea posible.
+- Da crédito a la fuente de datos original. Comparte y libérate :)
 - El desafío tiene que ver con la creatividad, la apertura y lo maravilloso que es trabajar con mapas y cartografía. No es una competencia, es diversión :)
 
 ## __REFERENCIAS__ 📝
@@ -149,5 +137,5 @@ No importa si eres un experto en SIG o nunca hiciste un mapa, todos son bienveni
 
 * *Oladipo Kayode, **30-Days-Of-CSS**,(2020), repositorio de GitHub: https://github.com/oluwakayode-a/30-Days-of-CSS*
 
-* *Antony Barja, __Buenas prácticas con QGIS aplicado a Recursos Hídricos__,(2021),repositorio de GitHub: https://github.com/ambarja/Buenas-practicas-con-QGIS*
+
 

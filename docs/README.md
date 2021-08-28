@@ -1,12 +1,11 @@
-<h1 align="center"><b>#30DayMapChallengeQGISPERU</b> 🇵🇪🌎🗺</h1>
-<table>
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/qgispe"><img src="https://img.shields.io/badge/qgis-peru-%233BB300.svg?&style=for-the-badge&logo=qgis&logoColor=white"></a> <a href="https://www.rstudio.com/products/rstudio/download/#download"><img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"></a> <a href="https://inkscape.org/release/inkscape-1.1/"><img src= "https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"></a> <a href="https://www.python.org/downloads/"><img src= "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"></a> <a href="https://github.com/Asabeneh/30-Days-Of-HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a> <a href="https://github.com/oluwakayode-a/30-Days-of-CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a> <a href="https://github.com/wesbos/JavaScript30"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a> <a href="https://plotly.com/python/getting-started/"><img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white"></a> <a href="https://www.postgresql.org/download/"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a> <a href="https://www.sqlite.org/download.html"><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"></a> <a href="www.linkedin.com/in/qgispe"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://twitter.com/qgispe"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://t.me/qgisperu"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a> <a href="https://www.youtube.com/channel/UCj5_XjZ-KpYBYhyrpjXJjcA"><img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="https://www.instagram.com/qgispe/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> <a href="https://www.facebook.com/qgispe"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
 </p>
-</table>
+</table> -->
 
 <center><a href="#"><img src="_flyer/flyer.png"></a></center>
 
+![image]({https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white})
 
 _¡Mapatón orientada a compartir mapas temáticos diversos por cada día del mes, empleando software de código de uso libre!_
 
@@ -16,7 +15,7 @@ _¡Mapatón orientada a compartir mapas temáticos diversos por cada día del me
 
 El propósito principal de esta mapatón es la de `crear y publicar` mapas basados en diferentes temáticas** en cada uno de los días del mes en el que se desarrolle. Para ello se utilizará el hashtag #30DayMapChallengeQGISPERU y podremos ver el calendario de temas a continuación. ¡Es todo un reto, ehhh!
 
-Cada participante podrá preparar sus datos y desarrollar un mapa el cual podrá presentar las veces que desee. Sin embargo, la idea es que por cada día se presente un mapa diferente. Solo debes incluir una imagen del mapa, y cuando lo publiques en **Twitter** <img src="_icon/twitter.svg" height="20px">  colocar los hashtags:
+Cada participante podrá preparar sus datos y desarrollar un mapa el cual podrá presentar las veces que desee. Sin embargo, la idea es que por cada día se presente un mapa diferente. Solo debes incluir una imagen del mapa, y cuando lo publiques en **Twitter** colocar los hashtags:
 
 **#30DayMapChallengeQGISPERU**
 

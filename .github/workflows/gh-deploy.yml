@@ -1,9 +1,10 @@
+# Based on: https://github.com/pigreco/workshop-estate-gis-2021/blob/main/.github/workflows/gh-deploy.yml
+# Author: Salvatore Fiandaca (pigreco)
+
 name: gh-deploy
-
-
 on:
   push:
-    branches: 
+    branches:
       - main
 jobs:
   deploy:

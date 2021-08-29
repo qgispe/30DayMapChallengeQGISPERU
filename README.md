@@ -5,7 +5,7 @@
 </p>
 </table>
 
-<center><a href="#"><img src="_flyer/flyer.png"></a></center>
+<center><a href="#"><img src="_flyer/qgispechallenge_flyer.png"></a></center>
 
 _¡Mapatón orientada a compartir mapas temáticos diversos por cada día del mes, empleando software de código de uso libre!_
 

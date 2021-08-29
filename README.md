@@ -15,7 +15,7 @@ _¡Mapatón orientada a compartir mapas temáticos diversos por cada día del me
  
 El propósito principal de esta mapatón es la de `crear y publicar` mapas basados en diferentes temáticas** en cada uno de los días del mes en el que se desarrolle. Para ello se utilizará el hashtag #30DayMapChallengeQGISPERU y podremos ver el calendario de temas a continuación. ¡Es todo un reto, ehhh!
  
-Cada participante podrá preparar sus datos y desarrollar un mapa el cual podrá presentar las veces que desee. Sin embargo, la idea es que por cada día se presente un mapa diferente. Solo debes incluir una imagen del mapa y cuando lo publiques ya sea en **Twitter** <img src="_icon/twitter.svg" height="20px">, **Instagram**  <img src="_icon/instagram.svg" height="25px">, **Facebook**   <img src="_icon/facebook.svg" height="20px"> y **Linkedin** <img src="_icon/linkedin.svg" height="20px"> colocar los hashtags:
+Cada participante podrá preparar sus datos y desarrollar un mapa el cual podrá presentar las veces que desee. Sin embargo, la idea es que por cada día se presente un mapa diferente. Solo debes incluir una imagen del mapa y cuando lo publiques ya sea en **Twitter** <img src="_icon/twitter.svg" height="20px">, **Instagram**  <img src="_icon/instagram.svg" height="25px">, **Facebook**   <img src="_icon/facebook.svg" height="20px"> y **Linkedin** <img src="_icon/LinkedIn.svg" height="20px"> colocar los hashtags:
  
 **#30DayMapChallengeQGISPERU**
  

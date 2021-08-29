@@ -12,6 +12,9 @@ authors:
 - family-names: Ferrer  
   given-names: Lucho
   orcid: https://orcid.org/0000-0003-2926-9647
+- family-names: Añamuro
+  given-names: Hugo
+  orcid: https://orcid.org/0000-0001-9074-3163
 version: 1.00
 date-released: 2021-09-01
 url: "https://github.com/qgispe/30DayMapChallengeQGISPERU"

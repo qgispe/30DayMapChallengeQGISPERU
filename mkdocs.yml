@@ -152,7 +152,7 @@ extra_css:
 ## Page tree
 nav:
     - Incio: index.md
-    - Bases: index.md
+    - Bases:
         - Español: index.md
         - English: index.md
 

@@ -1,8 +1,8 @@
 ## Project information
-site_name: Comparte y libérate
+site_name: 30DCMQGIS | Comparte y libérate
 site_url: https://github.com/pigreco/workshop-estate-gis-2021#piattaforme-e-software
 site_description: Obiettivo di questo workshop è quello di evidenziare le potenzialità delle analisi geografiche usando opendata e software Open Source. Realizzeremo un progetto QGIS utilizzando, come fonte dei dati, il WMS dell'AdE e vedremo come aggiungere il servizio WMS, come estrarre i dati esposti usando il filed calc, e infine come digitalizzare velocemente le particelle catastali usando vari plugin.
-site_author: Salvatore Fiandaca
+site_author: qgispe
 
 ## Repository
 repo_name: 30DaysMapChallengeQGISPE
@@ -19,29 +19,23 @@ extra:
     - icon: fontawesome/solid/home
       link: https://github/qgispe/30DayMapChallengeQGISPERU/
     - icon: fontawesome/brands/twitter
-      link: http://twitter.com/opendatasicilia
-      name: account twitter
+      link: https://twitter.com/qgispe
+      name: Grupo Oficial de Usuarios QGIS Perú
     - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/groups/opendatasicilia/
-      name: gruppo facebook
+      link: https://www.facebook.com/qgispe
+      name: Grupo de Usuarios QGIS Perú
     - icon: fontawesome/brands/github-alt
       link: https://github.com/gbvitrano/MaterialMkDocs-gb
       name: Repoisitory GitHub
     - icon: fontawesome/brands/telegram
-      link: http://twitter.com/opendatasicilia
-      name: gruppo Telegram
-    - icon: fontawesome/solid/envelope
-      link: https://groups.google.com/forum/#!forum/opendatasicilia
-      name: mailing list OpenDataSicilia
-    - icon: fontawesome/solid/rss
-      link: ../feed_rss_created.xml
-      name: Feed RSS
+      link: http://twitter.com/qgispe
+      name: Grupo de telegram
     - icon: fontawesome/solid/file-pdf
       link: ../Dagli_OpenData_all_OpenSource_ Lavorare_in_QGIG_con_le_mappe_catastali.pdf
       name: Scarica il file PDF (5.4 mb)
-  analytics:
-    provider: google
-    property: UA-122084242-1
+  # analytics:
+  #   provider: google
+  #   property: UA-122084242-1
 
 # Configuration
 theme:

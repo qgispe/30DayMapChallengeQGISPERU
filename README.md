@@ -15,7 +15,7 @@ _¡Mapatón orientada a compartir mapas temáticos diversos por cada día del me
 
 El propósito principal de esta mapatón es la de `crear y publicar` mapas basados en diferentes temáticas** en cada uno de los días del mes en el que se desarrolle. Para ello se utilizará el hashtag #30DayMapChallengeQGISPERU y podremos ver el calendario de temas a continuación. ¡Es todo un reto, ehhh!
 
-Cada participante podrá preparar sus datos y desarrollar un mapa el cual podrá presentar las veces que desee. Sin embargo, la idea es que por cada día se presente un mapa diferente. Solo debes incluir una imagen del mapa y cuando lo publiques ya sea en **Twitter** <img src="_icon/twitter.svg" height="20px">, **Instagram**  <img src="_icon/Instagram.svg" height="25px">, **Facebook**   <img src="_icon/Facebook.svg" height="20px"> y **Linkedin** <img src="_icon/LinkedIn.svg" height="20px"> colocar los hashtags:
+Cada participante podrá preparar sus datos y desarrollar un mapa el cual podrá presentar las veces que desee. Sin embargo, la idea es que por cada día se presente un mapa diferente. Solo debes incluir una imagen del mapa y cuando lo publiques ya sea en **Twitter** <img src="_icon/twitter.svg" height="20px">, **Instagram**  <img src="_icon/Instagram.svg" height="25px">, **Facebook**   <img src="_icon/Facebook.svg" height="20px"> y **Linkedin** <img src="_icon/LinkedIn.svg" height="20px"> colocar los siguientes hashtags:
 
 **#30DayMapChallengeQGISPERU**
 
@@ -88,6 +88,7 @@ Es un tablero de control que muestra los datos actualizados oficiales de los cas
 
 
 ## __HERRAMIENTAS__ 🔧⚙
+
 Debido a que el desafío está dirigido a estar abierto para **todos**, las herramientas enumeradas aquí serán herramientas de **código abierto (de uso libre)**. Eso no significa que el desafío se pueda realizar con cualquier tipo de software (o incluso sin ningún software). Las habilidades de programación no son de ninguna manera un requisito para hacer los mapas. 💡🧮👇
 
 * [__QGIS:__ ](https://qgis.org/es/site/)
@@ -126,7 +127,7 @@ No importa si eres un experto en SIG o nunca hiciste un mapa, todos son bienveni
 
 - Todos los mapas que publiques deben ser su trabajo original. No robes contenido de otros.
 - Da crédito a la fuente de datos original. Comparte y libérate :)
-- El desafío tiene que ver con la creatividad, la apertura y lo maravilloso que es trabajar con mapas y cartografía. No es una competencia, es diversión :)
+- El desafío tiene que ver con la creatividad, la apertura y lo maravilloso que es trabajar con mapas y cartografía. No es una competencia, es diversión 😊
 
 ## __REFERENCIAS__ 📝
 
@@ -137,3 +138,23 @@ No importa si eres un experto en SIG o nunca hiciste un mapa, todos son bienveni
 * *Asabeneh, **30-Days-Of-HTML**,(2021),repositorio de GitHub: https://github.com/Asabeneh/30-Days-Of-HTML*
 
 * *Oladipo Kayode, **30-Days-Of-CSS**,(2020), repositorio de GitHub: https://github.com/oluwakayode-a/30-Days-of-CSS*
+
+## __CITA__ 🔖
+
+```
+@misc{Barja_30DayMapChallengeQGISPERU_2021,
+author = {Barja, Antony and Ferrer, Lucho and Añamuro, Hugo},
+doi = {10.5281/zenodo.5262851},
+month = {9},
+title = {{#30DayMapChallengeQGISPERU}},
+url = {https://github.com/qgispe/30DayMapChallengeQGISPERU},
+year = {2021}
+}
+```
+
+
+
+
+
+## __LICENCIA__  📃
+[![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0) Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)

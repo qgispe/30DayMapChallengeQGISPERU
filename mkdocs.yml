@@ -1,5 +1,5 @@
 ## Project information
-site_name: 30DCMQGIS | Comparte y libérate
+site_name: 30DCMQGISPE
 site_url: https://github.com/pigreco/workshop-estate-gis-2021#piattaforme-e-software
 site_description: Obiettivo di questo workshop è quello di evidenziare le potenzialità delle analisi geografiche usando opendata e software Open Source. Realizzeremo un progetto QGIS utilizzando, come fonte dei dati, il WMS dell'AdE e vedremo come aggiungere il servizio WMS, come estrarre i dati esposti usando il filed calc, e infine come digitalizzare velocemente le particelle catastali usando vari plugin.
 site_author: qgispe
@@ -10,7 +10,7 @@ repo_url: https://github.com/qgispe/30DayMapChallengeQGISPERU/
 edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
-copyright: <a href="https://twitter.com/opendatasicilia" title="@opendatasicilia" target="_blank">by @opendatasicilia grazie Gianni</a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/!" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)" target="_blank" class="link-dark text-decoration-none">Licenza CC-BY-SA-4.0</a>
+copyright: <a href="https://twitter.com/antony_barja" title="@antony_barja" target="_blank">by @antony_barja</a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/!" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)" target="_blank" class="link-dark text-decoration-none">Licenza CC-BY-SA-4.0</a>
 
 ## Social Media
 extra:
@@ -28,7 +28,7 @@ extra:
       link: https://github.com/gbvitrano/MaterialMkDocs-gb
       name: Repoisitory GitHub
     - icon: fontawesome/brands/telegram
-      link: http://twitter.com/qgispe
+      link: https://t.me/qgisperu
       name: Grupo de telegram
     - icon: fontawesome/solid/file-pdf
       link: ../Dagli_OpenData_all_OpenSource_ Lavorare_in_QGIG_con_le_mappe_catastali.pdf

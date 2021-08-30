@@ -151,15 +151,14 @@ extra_css:
 
 ## Page tree
 nav:
-    - Home: index.md
-    - Dagli OpenData all&rsquo;OpenSource:
-        - Lavorare in QGIG con le mappe catastali:
-            - Introduzione: intro.md
-            - QGIS e il WMS AdE: qgis_ade.md
-            - WMS Catasto AdE in QGIS: wms_catasto.md
-            - Risultati evento: risultati.md
-            - Cosa c&rsquo;è in questo repo: repo.md
-            - Contatti: contatti.md
-    - HfcQGIS: "http://hfcqgis.opendatasicilia.it/"
-    - OpenDataSicilia: ods.md
-    - Informativa privacy estesa: privacy.md
+    - Incio: index.md
+    - Bases: #
+        - Español: #
+        - English: #
+
+    - Mapas publicados:
+        - Día 01: #
+        - Día 02: #
+
+    - Estadísticas: #
+    - Cierre del evento: #

@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="713.42389"
-   height="221.06242"
-   viewBox="0 0 188.76007 58.489433"
+   width="726.49725"
+   height="210.67981"
+   viewBox="0 0 192.21906 55.742366"
    version="1.1"
    id="svg8"
    sodipodi:docname="logo_white.svg"
@@ -143,8 +143,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.60369595"
-     inkscape:cx="246.15078"
-     inkscape:cy="206.75069"
+     inkscape:cx="256.93134"
+     inkscape:cy="276.12025"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -178,39 +178,32 @@
      inkscape:label="Livello 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-20.05623,-177.39369)"
+     transform="translate(-17.203873,-159.03967)"
      style="opacity:0.99">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:21.2085px;line-height:125%;font-family:Trueno;-inkscape-font-specification:'Trueno, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.89262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="65.282455"
-       y="211.32951"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:37.7553px;line-height:125%;font-family:Trueno;-inkscape-font-specification:'Trueno, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.36922;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="86.326172"
+       y="209.72411"
        id="text50"
        inkscape:export-filename="H:\Archivio Lavori\Web\HfcQGIS\In Progess\in_progress\hfc_white.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       transform="scale(1.0020553,0.99794891)"><tspan
+       transform="scale(0.98776302,1.0123886)"><tspan
          sodipodi:role="line"
          id="tspan48"
-         x="65.282455"
-         y="211.32951"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:21.2085px;font-family:Trueno;-inkscape-font-specification:'Trueno, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1.89262;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">GISPE 2021</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.9283px;line-height:125%;font-family:Trueno;-inkscape-font-specification:'Trueno, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.837207;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       x="22.820862"
-       y="224.9337"
-       id="text960"
-       transform="scale(0.96895925,1.0320351)"><tspan
+         x="86.326172"
+         y="209.72411"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:37.7553px;font-family:Trueno;-inkscape-font-specification:'Trueno, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.36922;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">GISPE </tspan><tspan
          sodipodi:role="line"
-         id="tspan958"
-         x="22.820862"
-         y="224.9337"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:14.9283px;font-family:Trueno;-inkscape-font-specification:'Trueno, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;stroke:#ffffff;stroke-width:0.837207;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">#30DaysMapChallenge</tspan></text>
+         x="86.326172"
+         y="256.91824"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:37.7553px;font-family:Trueno;-inkscape-font-specification:'Trueno, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.36922;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="tspan861" /></text>
     <g
        inkscape:label="Capa 1"
        id="layer1-3"
-       transform="matrix(0.1571337,0,0,0.16291704,24.689381,168.21863)"
+       transform="matrix(0.2281442,0,0,0.2428934,23.930797,145.36055)"
        style="stroke:none">
       <g
          id="g900"

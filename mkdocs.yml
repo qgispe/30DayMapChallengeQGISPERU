@@ -84,7 +84,7 @@ plugins:
 - print-site:
     add_to_navigation: false
     print_page_title: 'Imprimir el documento en pdf'
-    add_print_site_banner: true
+    add_print_site_banner: false
     print_site_banner_template: "docs/pdf/banner.tpl"
     # Table of contents
     add_table_of_contents: true
@@ -96,7 +96,7 @@ plugins:
     enumerate_figures: true
     add_cover_page: true
     cover_page_template: "docs/pdf/cover_page.tpl"
-    path_to_pdf: "3ODCMQGISPE.pdf"
+    path_to_pdf: "https://github.com/qgispe/30DayMapChallengeQGISPERU/raw/main/docs/30DCMQGISPE.pdf"
     exclude:
 
 - rss:

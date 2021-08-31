@@ -151,14 +151,9 @@ extra_css:
 
 ## Page tree
 nav:
-    - Incio: docs/home.md
-    - Bases:
-        - Español: index.md
-        - English: index.md
-
+    - Incio: README.md
     - Mapas publicados:
         - Día 01: index.md
         - Día 02: index.md
-
     - Estadísticas: index.md
     - Cierre del evento: index.md

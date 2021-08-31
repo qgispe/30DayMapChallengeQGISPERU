@@ -17,7 +17,7 @@ extra:
   manifest: "manifest.webmanifest"
   social:
     - icon: fontawesome/solid/home
-      link: https://qgispe.github.io/30DayMapChallengeQGISPERU/
+      link: "#"
     - icon: fontawesome/brands/twitter
       link: https://twitter.com/qgispe
       name: Grupo Oficial de Usuarios QGIS Perú

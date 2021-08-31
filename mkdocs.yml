@@ -34,8 +34,8 @@ extra:
       link: https://www.linkedin.com/in/qgispe/
       name: Grupo Oficial de Usuarios QGIS Perú
     - icon: fontawesome/solid/file-pdf
-      link: ../Dagli_OpenData_all_OpenSource_ Lavorare_in_QGIG_con_le_mappe_catastali.pdf
-      name: Scarica il file PDF (5.4 mb)
+      link: ../30DCMQGISPE.pdf
+      name: Descargar archivo PDF (0.74 mb)
   # analytics:
   #   provider: google
   #   property: UA-122084242-1
@@ -83,7 +83,7 @@ plugins:
 # - img2fig
 - print-site:
     add_to_navigation: false
-    print_page_title: 'Stampa il documento in pdf'
+    print_page_title: 'Imprimir el documento en pdf'
     add_print_site_banner: true
     print_site_banner_template: "docs/pdf/banner.tpl"
     # Table of contents
@@ -96,7 +96,7 @@ plugins:
     enumerate_figures: true
     add_cover_page: true
     cover_page_template: "docs/pdf/cover_page.tpl"
-    path_to_pdf: "Dagli_OpenData_all_OpenSource_ Lavorare_in_QGIG_con_le_mappe_catastali.pdf"
+    path_to_pdf: "3ODCMQGISPE.pdf"
     exclude:
 
 - rss:
@@ -106,7 +106,6 @@ plugins:
         as_update: false
         datetime_format: "%d-%m-%Y"
     # datetime_format: "%Y-%m-%d"
-    image: https://materialmkdocs-gb.readthedocs.io/it/latest/img/hfc_rss.png
     feed_ttl: 1440
     length: 20
     pretty_print: false

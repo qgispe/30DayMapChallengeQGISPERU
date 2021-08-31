@@ -100,7 +100,7 @@ Es un proyecto de desarrollo de software para Sistemas de Información Geográfi
 Es un lenguaje de programación de análisis estadístico con herramientas gráficas muy avanzadas, y es un referente en el análisis estadístico desde hace muchos años. Existen diversas librerías espaciales para realizar cálculos avanzados espaciales.
 
 * [__Python:__ ](https://www.python.org/)
-Es un lenguaje de programación versátil, multiparadigma, de código abierto y utilizado ampliamente en sistemas de información geográfica, tanto de código de uso libre como licenciado. PyQGIS es una de sus librerías que es utilizada nativamente con **QGIS**.
+Es un lenguaje de programación versátil, multiparadigma, de código abierto y utilizado ampliamente en sistemas de información geográfica, tanto de código de uso libre como licenciado. PyQGIS es una de sus librerías que es utilizada nativamente con QGIS.
 
 * [__Javascript:__ ](https://www.javascript.com/)
 Es un lenguaje de programación que permite crear contenido dinámico para páginas web. [**Leaflet**](https://leafletjs.com/) es una de sus librerías estrella para el uso de geovisores.
@@ -130,13 +130,13 @@ No importa si eres un experto en SIG o nunca hiciste un mapa, todos son bienveni
 
 ## [🔵] __7. REFERENCIAS__ 📝
 
- * *Topi Tjukanov, __#30DayMapChallenge__, (2020), repositorio de GitHub: https://github.com/tjukanovt/30DayMapChallenge*
+ * *Topi Tjukanov, __#30DayMapChallenge__, (2020), repositorio de GitHub: [https://github.com/tjukanovt/30DayMapChallenge](https://github.com/tjukanovt/30DayMapChallenge)*
 
- * *Salvatore Fiandaca, __workshop-estate-gis-2021__,(2021), repositorio de GitHub: https://github.com/pigreco/workshop-estate-gis-2021*
+ * *Salvatore Fiandaca, __workshop-estate-gis-2021__,(2021), repositorio de GitHub: [https://github.com/pigreco/workshop-estate-gis-2021](https://github.com/pigreco/workshop-estate-gis-2021)*
 
-* *Asabeneh, __30-Days-Of-HTML__,(2021),repositorio de GitHub: https://github.com/Asabeneh/30-Days-Of-HTML*
+* *Asabeneh, __30-Days-Of-HTML__,(2021),repositorio de GitHub: [https://github.com/Asabeneh/30-Days-Of-HTML](https://github.com/Asabeneh/30-Days-Of-HTML)*
 
-* *Oladipo Kayode, __30-Days-Of-CSS__,(2020), repositorio de GitHub: https://github.com/oluwakayode-a/30-Days-of-CSS*
+* *Oladipo Kayode, __30-Days-Of-CSS__,(2020), repositorio de GitHub: [https://github.com/oluwakayode-a/30-Days-of-CSS](https://github.com/oluwakayode-a/30-Days-of-CSS)*
 
 
 ## [🔵] __8. CITA__ 🔖

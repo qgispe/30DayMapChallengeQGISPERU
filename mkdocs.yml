@@ -96,7 +96,7 @@ plugins:
     enumerate_figures: true
     add_cover_page: true
     cover_page_template: "docs/pdf/cover_page.tpl"
-    path_to_pdf: "https://github.com/qgispe/30DayMapChallengeQGISPERU/raw/main/docs/30DCMQGISPE.pdf"
+    path_to_pdf: "30DCMQGISPE.pdf"
     exclude:
 
 - rss:

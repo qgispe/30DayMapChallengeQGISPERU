@@ -34,7 +34,7 @@ extra:
       link: https://www.linkedin.com/in/qgispe/
       name: Grupo Oficial de Usuarios QGIS Perú
     - icon: fontawesome/solid/file-pdf
-      link: ../30DCMQGISPE.pdf
+      link: https://github.com/qgispe/30DayMapChallengeQGISPERU/raw/main/docs/30DCMQGISPE.pdf
       name: Descargar archivo PDF (0.74 mb)
   # analytics:
   #   provider: google
@@ -43,7 +43,7 @@ extra:
 # Configuration
 theme:
   name: material
-  #custom_dir: docs/overrides/
+  custom_dir: docs/overrides/
   static_templates:
     - 404.html
   language: es

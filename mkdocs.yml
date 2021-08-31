@@ -1,7 +1,7 @@
 ## Project information
 site_name: 30DCMQGISPE
-site_url: https://github.com/pigreco/workshop-estate-gis-2021#piattaforme-e-software
-site_description: Obiettivo di questo workshop è quello di evidenziare le potenzialità delle analisi geografiche usando opendata e software Open Source. Realizzeremo un progetto QGIS utilizzando, come fonte dei dati, il WMS dell'AdE e vedremo come aggiungere il servizio WMS, come estrarre i dati esposti usando il filed calc, e infine come digitalizzare velocemente le particelle catastali usando vari plugin.
+site_url: https://qgispe.github.io/30DayMapChallengeQGISPERU
+site_description: Mapatón orientada a compartir mapas temáticos diversos por cada día del mes, empleando software libre de código abierto..
 site_author: qgispe
 
 ## Repository
@@ -10,7 +10,7 @@ repo_url: https://github.com/qgispe/30DayMapChallengeQGISPERU/
 edit_uri: edit/main/docs/ #disables edit button
 
 # Copyright
-copyright: <a href="https://twitter.com/antony_barja" title="@antony_barja" target="_blank">by @antony_barja</a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/!" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)" target="_blank" class="link-dark text-decoration-none">Licenza CC-BY-SA-4.0</a>
+copyright: <a href="https://twitter.com/antony_barja" title="@antony_barja" target="_blank">Creado por <b>Antony Barja| @antony_barja</b></a> | <a href="https://creativecommons.org/licenses/by-sa/4.0/!" title="Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)" target="_blank" class="link-dark text-decoration-none">Licenza CC-BY-SA-4.0</a>
 
 ## Social Media
 extra:
@@ -85,7 +85,7 @@ plugins:
     print_site_banner_template: "docs/pdf/banner.tpl"
     # Table of contents
     add_table_of_contents: true
-    toc_title: 'Workshop estate GIS 2021 UNIPD | Dagli OpenData all’OpenSource: Lavorare in QGIG con le mappe catastali'
+    toc_title: 'Mapatón orientada a compartir mapas temáticos diversos por cada día del mes, empleando software libre de código abierto'
     toc_depth: 6
     # Content-related
     add_full_urls: true
@@ -151,7 +151,7 @@ extra_css:
 
 ## Page tree
 nav:
-    - Incio: index.md
+    - Incio: docs/home.md
     - Bases:
         - Español: index.md
         - English: index.md

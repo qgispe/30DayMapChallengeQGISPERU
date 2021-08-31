@@ -80,11 +80,10 @@ plugins:
 - mkdocstrings
 - autolinks
 - macros
-
 - print-site:
     add_to_navigation: false
     print_page_title: 'Imprimir el documento en pdf'
-    add_print_site_banner: false
+    add_print_site_banner: true
     print_site_banner_template: "docs/pdf/banner.tpl"
     # Table of contents
     add_table_of_contents: true

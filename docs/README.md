@@ -7,7 +7,7 @@
 
 _¡Mapatón orientada a compartir mapas temáticos diversos por cada día del mes, empleando software de código de uso libre!_
 
-## __PROYECTO DE MAPEO SOCIAL DIARIO PARA EL MES DE SEPTIEMBRE DEL 2021__ 🚀
+## [🔵] __1. PROYECTO DE MAPEO SOCIAL DIARIO PARA EL MES DE SEPTIEMBRE DEL 2021__ 🚀
 
 ¡Hola amigos! Recordemos que el repositorio oficial del #30DayMapChallenge es un desafío diario, iniciado por nuestro amigo **Topi Tjukanov** con el propósito de **mapear/georreferenciar/cartografiar/visualizar/** datos que puedan ser relevantes para la comunidad espacial y para todos en general.
 
@@ -27,7 +27,7 @@ No existen restricciones en el uso de herramientas o plugins específicos o de t
 Por favor, consulta nuestro código de conducta al final de la página.
 
 
-## __TEMAS__ 📆
+## [🔵] __2. TEMAS__ 📆
 
 | Día | Fecha | Tema | Detalles |
 | ------------- | ------------- | ------------- | ------------- |
@@ -63,7 +63,7 @@ Por favor, consulta nuestro código de conducta al final de la página.
 | 	30	 | 	30/09/2020	 | 	Un mapa libre	 | 	Sin reglas. Has llegado hasta aquí, así que haz lo que quieras. Solo haz un mapa.	  |
 
 
-## __DATOS + RECURSOS__ 📁 📍
+## [🔵] __3. DATOS + RECURSOS__ 📁 📍
 Puede utilizar los datos que usted elija. Aquí hay algunas fuentes que podrían ayudarte a comenzar o tener nuevas ideas 💡🧮👇
 
 * [__OpenStreetMap (OSM)__:](https://www.openstreetmap.org/#map=6/-9.301/-75.002)
@@ -86,7 +86,7 @@ Es un tablero de control que muestra los datos actualizados oficiales de los cas
 * [__Patches:__ ](https://github.com/qgispe/QGIS-Patches-Peru) Patches perzonalizados para Perú y otros.
 
 
-## __HERRAMIENTAS__ 🔧⚙
+## [🔵] __4. HERRAMIENTAS__ 🔧⚙
 
 Debido a que el desafío está dirigido a estar abierto para **todos**, las herramientas enumeradas aquí serán herramientas de **código abierto (de uso libre)**. Eso no significa que el desafío se pueda realizar con cualquier tipo de software (o incluso sin ningún software). Las habilidades de programación no son de ninguna manera un requisito para hacer los mapas. 💡🧮👇
 
@@ -114,21 +114,21 @@ Es un sistema de gestión de base de datos (DBMS) que es simple, robusto, fácil
 * [__Blender:__ ](https://www.blender.org/)
 Es un programa informático multiplataforma, de código de uso libre, que permite el modelado 3D, animaciones, efectos visuales, entre otros. Con su librería Blender GIS, nos permite realizar diversos modelamientos espaciales.
 
-## __TUTORIALES__ 🎥 👩‍💻 👨‍💻
+## [🔵] __5. TUTORIALES__ 🎥 👩‍💻 👨‍💻
 
 Un taller introductorio de QGIS para principiantes| Buenas prácticas con QGIS aplicado a los recursos hídricos
 --------|---------
  [![add_col_area_perimetro](https://img.youtube.com/vi/-7v5qfJYWxA/0.jpg)](https://www.youtube.com/watch?v=-7v5qfJYWxA "Un taller introductorio de QGIS para principiantes") | [![add_col_area_perimetro](https://img.youtube.com/vi/6upwMfROKuI/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "Buenas prácticas con QGIS aplicado a los recursos hídricos")
 
 
-## __CÓDIGO DE CONDUCTA__ 📜⚖
+## [🔵] __6. CÓDIGO DE CONDUCTA__ 📜⚖
 No importa si eres un experto en SIG o nunca hiciste un mapa, todos son bienvenidos a participar. Sin embargo, ten en cuenta algunas cosas:
 
 - Todos los mapas que publiques deben ser su trabajo original. No robes contenido de otros.
 - Dé crédito a la fuente de datos original siempre que sea posible.
 - El desafío tiene que ver con la creatividad, la apertura y lo maravilloso que es trabajar con mapas y cartografía. No es una competencia, es diversión 😊
 
-## __REFERENCIAS__ 📝
+## [🔵] __7. REFERENCIAS__ 📝
 
  * *Topi Tjukanov, __#30DayMapChallenge__, (2020), repositorio de GitHub: https://github.com/tjukanovt/30DayMapChallenge*
 
@@ -139,7 +139,7 @@ No importa si eres un experto en SIG o nunca hiciste un mapa, todos son bienveni
 * *Oladipo Kayode, **30-Days-Of-CSS**,(2020), repositorio de GitHub: https://github.com/oluwakayode-a/30-Days-of-CSS*
 
 
-## __CITA__ 🔖
+## [🔵] __8. CITA__ 🔖
 
 ```
 @misc{Barja_30DayMapChallengeQGISPERU_2021,
@@ -153,7 +153,7 @@ year = {2021}
 
 ```
 
-## __LICENCIA__ 📃
+## [🔵] __9. LICENCIA__ 📃
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0) Atribución-CompartirIgual 4.0 Internacional (CC BY-SA 4.0)
 
 

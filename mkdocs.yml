@@ -151,7 +151,7 @@ extra_css:
 
 ## Page tree
 nav:
-    - Incio: README.md
+    - Incio:
     - Mapas publicados:
         - Día 01: index.md
         - Día 02: index.md

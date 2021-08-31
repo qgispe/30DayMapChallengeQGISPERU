@@ -34,7 +34,7 @@ extra:
       link: https://www.linkedin.com/in/qgispe/
       name: Grupo Oficial de Usuarios QGIS Perú
     - icon: fontawesome/solid/file-pdf
-      link: https://github.com/qgispe/30DayMapChallengeQGISPERU/raw/main/docs/30DCMQGISPE.pdf
+      link: ../30DCMQGISPE.pdf
       name: Descargar archivo PDF (0.74 mb)
   # analytics:
   #   provider: google
@@ -43,7 +43,7 @@ extra:
 # Configuration
 theme:
   name: material
-  custom_dir: docs/overrides/
+  #custom_dir: docs/overrides/
   static_templates:
     - 404.html
   language: es
@@ -80,6 +80,7 @@ plugins:
 - mkdocstrings
 - autolinks
 - macros
+# - img2fig
 - print-site:
     add_to_navigation: false
     print_page_title: 'Imprimir el documento en pdf'
@@ -95,7 +96,7 @@ plugins:
     enumerate_figures: true
     add_cover_page: true
     cover_page_template: "docs/pdf/cover_page.tpl"
-    path_to_pdf: "30DCMQGISPE.pdf"
+    path_to_pdf: "3ODCMQGISPE.pdf"
     exclude:
 
 - rss:

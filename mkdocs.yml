@@ -40,7 +40,7 @@ extra:
 # Configuration
 theme:
   name: material
-  #custom_dir: docs/overrides/
+  custom_dir: docs/overrides/
   static_templates:
     - 404.html
   language: es
@@ -151,7 +151,7 @@ extra_css:
 
 ## Page tree
 nav:
-    - Incio:
+    - Incio: index.md
     - Mapas publicados:
         - Día 01: index.md
         - Día 02: index.md

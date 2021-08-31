@@ -2,13 +2,13 @@
 {% extends "base.html" %}
 
 {% block libs %}
- <!-- Qui Script header) --> 
+ <!-- Qui Script header) -->
  <link href="../stylesheets/jquery-eu-cookie-law-popup.css" rel="stylesheet" type="text/css"/>
- <!-- Qui Script footer) --> 
+ <!-- Qui Script footer) -->
 
 <!-- Go to www.addthis.com/dashboard to customize your tools -->
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b4bb82cddf7f677"></script>  
- <!-- Qui Progress bar) --> 
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b4bb82cddf7f677"></script>
+ <!-- Qui Progress bar) -->
 <script src="../stylesheets/jquery-3.1.1.min.js"></script>
 <script src="../stylesheets/prognroll.min.js"></script>
 <script>
@@ -18,10 +18,10 @@
         color: "#589632", //Progress bar background color
       });
     });
-</script> 
+</script>
 <!-- eu-cookie-lawt -->
 <div class="eupopup eupopup-top "></div>
-<script src="../stylesheets/jquery-eu-cookie-law-popup.js"></script> 
+<script src="../stylesheets/jquery-eu-cookie-law-popup.js"></script>
 {% endblock %}
 
 <!-- blocco meta tag e social -->
@@ -48,8 +48,8 @@
   <meta name="twitter:title" content="{{ title }}" />
   <meta name="twitter:description" content="{{ config.site_description }}" />
   <meta name="twitter:image" content="https://gbvitrano.github.io/workshop-estate-gis-2021/imgs/EstateGISopendata_website.png" />
-<!-- Meta tags -->  
-  <meta name="keywords" content="calcolatore, campi, qgis, espressioni, funzioni, field calc, tabella, attributi, coordinate, hfcqgis, opendatasicilia,">  
+<!-- Meta tags -->
+  <meta name="keywords" content="calcolatore, campi, qgis, espressioni, funzioni, field calc, tabella, attributi, coordinate, hfcqgis, opendatasicilia,">
   <meta name="creation_Date" content="08/07/2021">
   <meta property="robots" content="index, follow" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -57,20 +57,20 @@
   <link rel="alternate" type="application/rss+xml" title="RSS feed of created content" href="{{ config.site_url }}feed_rss_created.xml">
   <link rel="alternate" type="application/rss+xml" title="RSS feed of updated content" href="{{ config.site_url }}feed_rss_updated.xml">
   {% endblock %}
-  
+
 {% block content %}
-<!-- pulsante stampa -->	
+<!-- pulsante stampa -->
 {% if page.url_to_print_page %}
-    <a href="{{ page.url_to_print_page }}" title="Stampa il sito in PDF" class="md-content__button md-icon">
+    <a href="{{ page.url_to_print_page }}" title="Imprimir sitio en PDF" class="md-content__button md-icon">
         {% include ".icons/material/printer.svg" %}
     </a>
 {% endif %}
  <!-- pulsante pdf -->
 {% if page.url_to_pdf %}
-<a href="{{ page.url_to_pdf }}" title="Scarica il PDF" class="md-content__button md-icon">
+<a href="{{ page.url_to_pdf }}" title="Descargar en PDF" class="md-content__button md-icon">
         {% include ".icons/material/pdf-box.svg" %}
     </a>
 	{% endif %}
-	
+
 {{ super() }}
 {% endblock content %}

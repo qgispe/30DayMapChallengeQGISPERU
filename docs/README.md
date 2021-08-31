@@ -116,9 +116,9 @@ Es un programa informático multiplataforma, de código de uso libre, que permit
 
 ## [🔵] __5. TUTORIALES__ 🎥 👩‍💻 👨‍💻
 
-Un taller introductorio de QGIS para principiantes| Buenas prácticas con QGIS aplicado a los recursos hídricos
---------|---------
- [![add_col_area_perimetro](https://img.youtube.com/vi/-7v5qfJYWxA/0.jpg)](https://www.youtube.com/watch?v=-7v5qfJYWxA "Un taller introductorio de QGIS para principiantes") | [![add_col_area_perimetro](https://img.youtube.com/vi/6upwMfROKuI/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "Buenas prácticas con QGIS aplicado a los recursos hídricos")
+Un taller introductorio de QGIS para principiantes| Buenas prácticas con QGIS aplicado a los recursos hídricos | Leyenda personalizada de un mapa arqueológico en QGIS
+--------|---------|-------
+ [![add_col_area_perimetro](https://img.youtube.com/vi/-7v5qfJYWxA/0.jpg)](https://www.youtube.com/watch?v=-7v5qfJYWxA "Un taller introductorio de QGIS para principiantes") | [![add_col_area_perimetro](https://img.youtube.com/vi/6upwMfROKuI/0.jpg)](https://www.youtube.com/watch?v=6upwMfROKuI "Buenas prácticas con QGIS aplicado a los recursos hídricos") | [![add_col_perimetro](https://user-images.githubusercontent.com/23284899/131461531-80009328-3c98-4360-8a2e-bd0d058b4725.png)](https://www.youtube.com/watch?v=kPsdYd85kGI "Leyenda personalizada de un mapa arqueológico en QGIS - nivel inicial")
 
 
 ## [🔵] __6. CÓDIGO DE CONDUCTA__ 📜⚖

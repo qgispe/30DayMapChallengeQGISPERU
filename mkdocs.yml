@@ -80,7 +80,7 @@ plugins:
 - mkdocstrings
 - autolinks
 - macros
-# - img2fig
+
 - print-site:
     add_to_navigation: false
     print_page_title: 'Imprimir el documento en pdf'

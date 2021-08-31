@@ -40,10 +40,10 @@ extra:
 # Configuration
 theme:
   name: material
-  custom_dir: docs/overrides/
+  #custom_dir: docs/overrides/
   static_templates:
     - 404.html
-  language: it
+  language: es
   features:
     - navigation.top
     - navigation.instant

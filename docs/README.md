@@ -132,11 +132,11 @@ No importa si eres un experto en SIG o nunca hiciste un mapa, todos son bienveni
 
  * *Topi Tjukanov, __#30DayMapChallenge__, (2020), repositorio de GitHub: https://github.com/tjukanovt/30DayMapChallenge*
 
- * *Salvatore Fiandaca,**workshop-estate-gis-2021**,(2021), repositorio de GitHub: https://github.com/pigreco/workshop-estate-gis-2021*
+ * *Salvatore Fiandaca, __workshop-estate-gis-2021__,(2021), repositorio de GitHub: https://github.com/pigreco/workshop-estate-gis-2021*
 
-* *Asabeneh,**30-Days-Of-HTML**,(2021),repositorio de GitHub: https://github.com/Asabeneh/30-Days-Of-HTML*
+* *Asabeneh, __30-Days-Of-HTML__,(2021),repositorio de GitHub: https://github.com/Asabeneh/30-Days-Of-HTML*
 
-* *Oladipo Kayode, **30-Days-Of-CSS**,(2020), repositorio de GitHub: https://github.com/oluwakayode-a/30-Days-of-CSS*
+* *Oladipo Kayode, __30-Days-Of-CSS__,(2020), repositorio de GitHub: https://github.com/oluwakayode-a/30-Days-of-CSS*
 
 
 ## [🔵] __8. CITA__ 🔖

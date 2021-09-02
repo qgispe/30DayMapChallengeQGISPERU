@@ -155,7 +155,7 @@ extra_css:
 nav:
     - Incio: README.md
     - Mapas publicados:
-        - Día 01: index.md
+        - Día 01: 30DCMQGISPE_dia01.md
         - Día 02: index.md
     - Estadísticas: index.md
     - Cierre del evento: index.md

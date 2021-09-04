@@ -7,8 +7,8 @@ __Mapatón orientada a compartir mapas temáticos diversos por cada día del mes
 
 ## __Día 02 - Líneas__
 
-<center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia02/antony_barja.jpeg" width="90%"></center>
+<center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia03/antony_barja.jpeg" width="90%"></center>
 
-<center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia02/jamir_garro.jpg" width="90%"></center>
+<center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia03/jamir_garro.jpg" width="90%"></center>
 
 <!-- <center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia01/Reymar_Sanchez.gif" width="90%"></center> -->

@@ -32,9 +32,9 @@ Por favor, consulta nuestro código de conducta al final de la página.
 
 | Día | Fecha | Tema | Detalles |
 | ------------- | ------------- | ------------- | ------------- |
-| 1 |   1/09/2020    |  Puntos   |  Un mapa con puntos.   |
-|   2    |  2/09/2020    |  Líneas   |  Un mapa con líneas.   |
-|   3    |  3/09/2020    |  Polígonos    |  Un mapa con polígonos.    |
+| `1` |   `1/09/2020`    |  `Puntos`   |  `Un mapa con puntos.`   |
+|   `2`    |  `2/09/2020`    |  `Líneas`   |  `Un mapa con líneas.`   |
+|   `3`    |  `3/09/2020`    |  `Polígonos`    |  `Un mapa con polígonos.`|
 |   4    |  4/09/2020    |  Hexágonos    |  Un mapa con hexágonos.    |
 |   5    |  5/09/2020    |  Azul     |  Un mapa con la temática del color azul o un mapa donde predomine el azul o derivados.     |
 |   6    |  6/09/2020    |  Rojo     |  Un mapa con la temática del color rojo o un mapa donde predomine el rojo o derivados.     |

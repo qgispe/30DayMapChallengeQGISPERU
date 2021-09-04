@@ -143,10 +143,10 @@ No importa si eres un experto en SIG o nunca hiciste un mapa, todos son bienveni
 
 ```
 @misc{Barja_30DayMapChallengeQGISPERU_2021,
-author = {Barja, Antony and Ferrer, Lucho and Añamuro, Hugo},
+author = {Barja, Antony and Ferrer, Lucho and Añamuro, Hugo and Mogrovejo, Diana},
 doi = {10.5281/zenodo.5262851},
 month = {9},
-title = {{#30DayMapChallengeQGISPERU}},
+title = {30DayMapChallengeQGISPERU},
 url = {https://github.com/qgispe/30DayMapChallengeQGISPERU},
 year = {2021}
 }

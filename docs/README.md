@@ -37,7 +37,7 @@ Por favor, consulta nuestro código de conducta al final de la página.
 | 	`4`	 | 	`4/09/2020`	 | 	`Hexágonos`	 | 	`Un mapa con hexágonos.`	  |
 | 	`5`	 | 	`5/09/2020`	 | 	`Azul`	 | 	`Un mapa con la temática del color azul o un mapa donde predomine el azul o derivados.`	  |
 | 	`6`	 | 	`6/09/2020`	 | 	`Rojo`	 | 	`Un mapa con la temática del color rojo o un mapa donde predomine el rojo o derivados.`	  |
-| 	7	 | 	7/09/2020	 | 	Verde	 | 	Un mapa con la temática del color verde o un mapa donde predomine el verde o derivados.	  |
+| 	`7`	 | 	`7/09/2020`	 | 	`Verde`	 | 	`Un mapa con la temática del color verde o un mapa donde predomine el verde o derivados.`	  |
 | 	8	 | 	8/09/2020	 | 	Amarillo	 | 	Un mapa con la temática del color amarillo o un mapa donde predomine el amarillo o derivados.	  |
 | 	9	 | 	9/09/2020	 | 	Monócromo	 | 	Una imagen monocromática se compone de un color (o valores de un color). Entonces, por ejemplo, los mapas en blanco y negro son válidos.	  |
 | 	10	 | 	10/09/2020	 | 	Grilla	 | 	Ya sea que lo llamemos grilla, grid o red de pescar, el objetivo es visualizar un mapa donde el protagonista sea la grilla y sus usos.	  |

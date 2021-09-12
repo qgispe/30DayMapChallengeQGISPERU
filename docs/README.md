@@ -42,7 +42,7 @@ Por favor, consulta nuestro código de conducta al final de la página.
 | 	`9`	 | 	`9/09/2020`	 | 	`Monócromo`	 | 	`Una imagen monocromática se compone de un color (o valores de un color). Entonces, por ejemplo, los mapas en blanco y negro son válidos.`	  |
 | 	`10`	 | 	`10/09/2020`	 | 	`Grilla`	 | 	`Ya sea que lo llamemos grilla, grid o red de pescar, el objetivo es visualizar un mapa donde el protagonista sea la grilla y sus usos.` |
 | 	`11`	 | 	`11/09/2020`	 | 	`3D`	 | 	`¡Muestra un dato, hecho, información o lo que desees en un mapa en 3D! Existe documentación oficial en QGIS para que tengas referencias.`	 |
-| 	`12`	 | 	`12/09/2020`	 | 	`Mapas no realizados con un sofwtare SIG	 | 	¡Muestra tu creatividad sin un SIG!`	  |
+| 	`12`	 | 	`12/09/2020`	 | 	`Mapas no realizados con un sofwtare SIG`	 | 	`¡Muestra tu creatividad sin un SIG!`	  |
 | 	13	 | 	13/09/2020	 | 	Raster	 | 	Podemos hacer cualquier mapa incluyendo datos raster, sin embargo, ¡este día el protagonista será el pixel!.	  |
 | 	14	 | 	14/09/2020	 | 	Cambio Climático	 | 	El cambio climático es un desafío y tenemos un papel importante para comunicarlo espacialmente.	  |
 | 	15	 | 	15/09/2020	 | 	Redes	 | 	Redes y conexiones.	  |

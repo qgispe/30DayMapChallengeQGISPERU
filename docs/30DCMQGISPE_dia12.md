@@ -7,12 +7,12 @@ __Mapatón orientada a compartir mapas temáticos diversos por cada día del mes
 
 ## __Día 12 - Sin GIS__
 
-<center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia12/antony_barja_gif01.gif" width="90%"></center>
+<center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia12/antony_barja_gif01.mp4" width="90%"></center>
 
-<center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia12/antony_barja_gif02.gif" width="90%"></center>
+<center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia12/antony_barja_gif02.mp4" width="90%"></center>
 
 
-<center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia12/antony_barja_sm_jpeg" width="90%"></center>
+<center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia12/antony_barja_sm.jpeg" width="90%"></center>
 
 <center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia12/jamir_garro.jpg" width="90%"></center>
 

@@ -13,6 +13,8 @@ __Mapatón orientada a compartir mapas temáticos diversos por cada día del mes
 
 <center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia13/alex_agurto.jpeg" width="90%"></center>
 
+<center><img src="https://raw.githubusercontent.com/DavidRoncal/Imagenes/main/Franchesco_Roncal.JPG" width="90%"></center>
+
 
 
 

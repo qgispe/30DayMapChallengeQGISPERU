@@ -7,9 +7,9 @@ __Mapatón orientada a compartir mapas temáticos diversos por cada día del mes
 
 ## __Día 15 - Redes y conexiones__
 
-<center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia13/jamir_garro.jpg" width="90%"></center>
+<center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia15/jamir_garro.jpg" width="90%"></center>
 
-<center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia13/antony_barja.jpg" width="90%"></center>
+<center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia15/antony_barja.jpg" width="90%"></center>
 
 
 

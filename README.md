@@ -47,8 +47,8 @@ Por favor, consulta nuestro código de conducta al final de la página.
 |   `13`   |  `13/09/2020`   |  `Raster`   |  `Podemos hacer cualquier mapa incluyendo datos raster, sin embargo, ¡este día el protagonista será el pixel!.`      |
 |   `14`   |  `14/09/2020`   |  `Cambio Climático`     |  `El cambio climático es un desafío y tenemos un papel importante para comunicarlo espacialmente.` |
 |   `15`   |  `15/09/2020`   |  `Redes`    |  `Redes y conexiones.`   |
-|   16   |  16/09/2020   |  Áreas naturales  |  Las áreas naturales tienden a verse hermosas en los mapas. Más aún si es con software de código de uso libre.     |
-|   17   |  17/09/2020   |  Mapas históricos     |  Datos históricos, estilo de mapa históricos y algo más.   |
+|   `16`   |  `16/09/2020`   |  `Áreas naturales`  |  `Las áreas naturales tienden a verse hermosas en los mapas. Más aún si es con software de código de uso libre.`     |
+|   `17`   |  `17/09/2020`   |  `Mapas históricos`     |  `Datos históricos, estilo de mapa históricos y algo más.`   |
 |   18   |  18/09/2020   |  Usos del suelo   |  ¿Cuáles son los tipos de usos de suelo que se aplican en ciudades, regiones, países o continentes? ¿Cómo ha cambiado en el tiempo?.   |
 |   19   |  19/09/2020   |  NULL     |  Datos perdidos. Todos odiamos eso, ¿verdad?. Bueno, entonces ¿cómo mapeamos algo que falta?. ¡Es un reto!.   |
 |   20   |  20/09/2020   |  Población    |  No todo son gráficos de barras o plots. ¿Te has dado cuenta cómo la tasa poblacional ha venido evolucionando a través del tiempo, espacialmente?      |

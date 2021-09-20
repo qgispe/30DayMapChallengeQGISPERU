@@ -9,7 +9,7 @@ __Mapatón orientada a compartir mapas temáticos diversos por cada día del mes
 
 <center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia16/antony_barja.jpg" width="90%"></center>
 
-<!-- <center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia15/jamir_garro.jpg" width="90%"></center> -->
+<center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia16/jamir_garro.jpg" width="90%"></center>
 
 
 

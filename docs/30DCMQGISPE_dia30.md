@@ -7,7 +7,7 @@ __Mapatón orientada a compartir mapas temáticos diversos por cada día del mes
 
 ## __Día 30 - Mapa Libre__
 
-<center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia30junior_berrocal.jpeg" width="90%"></center>
+<center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia30/junior_berrocal.jpeg" width="90%"></center>
 
 <center><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/docs/dia30/jamir_garo.jpg" width="90%"></center>
 

@@ -129,6 +129,10 @@ No importa si eres un experto en SIG o nunca hiciste un mapa, todos son bienveni
 - Da crédito a la fuente de datos original. Comparte y libérate :)
 - El desafío tiene que ver con la creatividad, la apertura y lo maravilloso que es trabajar con mapas y cartografía. No es una competencia, es diversión 😊
 
+
+## **Poster**
+![poster](poster/qgispe_v1.png)
+
 ## __REFERENCIAS__ 📝
 
  * *Topi Tjukanov, __#30DayMapChallenge__, (2020), repositorio de GitHub: https://github.com/tjukanovt/30DayMapChallenge*

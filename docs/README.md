@@ -5,7 +5,7 @@
 </p>
 </table>
 
-<center><a href="#"><img src="_flyer/qgispe_flyer.png"></a></center>
+<center><a href="#"><img src="https://raw.githubusercontent.com/qgispe/30DayMapChallengeQGISPERU/main/_flyer/qgispe_flyer.png"></a></center>
 
 _¡Mapatón orientada a compartir mapas temáticos diversos por cada día del mes, empleando software de código de uso libre!_
 

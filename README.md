@@ -49,19 +49,19 @@ Por favor, consulta nuestro código de conducta al final de la página.
 |   `15`   |  `15/09/2020`   |  `Redes`    |  `Redes y conexiones.`   |
 |   `16`   |  `16/09/2020`   |  `Áreas naturales`  |  `Las áreas naturales tienden a verse hermosas en los mapas. Más aún si es con software de código de uso libre.`     |
 |   `17`   |  `17/09/2020`   |  `Mapas históricos`     |  `Datos históricos, estilo de mapa históricos y algo más.`   |
-|   18   |  18/09/2020   |  Usos del suelo   |  ¿Cuáles son los tipos de usos de suelo que se aplican en ciudades, regiones, países o continentes? ¿Cómo ha cambiado en el tiempo?.   |
-|   19   |  19/09/2020   |  NULL     |  Datos perdidos. Todos odiamos eso, ¿verdad?. Bueno, entonces ¿cómo mapeamos algo que falta?. ¡Es un reto!.   |
-|   20   |  20/09/2020   |  Población    |  No todo son gráficos de barras o plots. ¿Te has dado cuenta cómo la tasa poblacional ha venido evolucionando a través del tiempo, espacialmente?      |
-|   21   |  21/09/2020   |  Recursos hídricos    |  Océanos, lagos, ríos o algo hídrico completamente diferente.      |
-|   22   |  22/09/2020   |  Educación    |  Ya sean mapas estáticos o dinámicos, existen muchas formas de realizar mapas que eduquen. Muestra tu talento a los alumnos :)     |
-|   23   |  23/09/2020   |  Límites políticos    |  Los límites están a nuestro alrededor. Algunos de ellos son visibles y otros están en nuestra cabeza, o corazón.      |
-|   24   |  24/09/2020   |  Elevación    |  Hermosas sombras, bellos contornos, altas montañas o valles bajos. Los mapas de elevación lo dicen todo.      |
-|   25   |  25/09/2020   |  COVID-19     |  Estamos muy cansados de ver este tema por todos los lugares, pero no podemos omitirlo. Vamos, poco a poco va decreciendo la curva.    |
-|   26   |  26/09/2020   |  Mapas realizados con nuevos plugins  |  Este día será un **#CaféConPluggins** exclusivo para la mapatón.      |
-|   27   |  27/09/2020   |  Grandes o pequeños datos     |  ¿A qué le llamamos "grandes datos espaciales" significativos? ¿Qué tipo de datos espaciales son "pequeños" pero interesantes?.    |
-|   28   |  28/09/2020   |  Mapas no geográficos     |  Mapas mentales, mapas de planetas, mapas de bacterias microscópicas o tal vez incluso algo más extraño.   |
-|   29   |  29/09/2020   |  Mapas globales   |  El mundo no es plano, por lo que con este mapa puedes enfatizar la redondez de nuestro planeta. Puede utilizar, por ejemplo, algunos plugins de QGIS.     |
-|   30   |  30/09/2020   |  Un mapa libre    |  Sin reglas. Has llegado hasta aquí, así que haz lo que quieras. Solo haz un mapa.     |
+|  `18`   |  `18/09/2020`   |  `Usos del suelo`   |  `¿Cuáles son los tipos de usos de suelo que se aplican en ciudades, regiones, países o continentes? ¿Cómo ha cambiado en el tiempo?.` |
+|   `19`   |  `19/09/2020`   |  `NULL`     |  `Datos perdidos. Todos odiamos eso, ¿verdad?. Bueno, entonces ¿cómo mapeamos algo que falta?. ¡Es un reto!.` |
+|   `20`   |  `20/09/2020`   |  `Población`    |  `No todo son gráficos de barras o plots. ¿Te has dado cuenta cómo la tasa poblacional ha venido evolucionando a través del tiempo, espacialmente?` |
+|   `21`   |  `21/09/2020`   |  `Recursos hídricos`    |  `Océanos, lagos, ríos o algo hídrico completamente diferente.`  |
+|   `22`   |  `22/09/2020`   |  `Educación`    |  `Ya sean mapas estáticos o dinámicos, existen muchas formas de realizar mapas que eduquen. Muestra tu talento a los alumnos :)`     |
+|   `23`   |  `23/09/2020`   |  `Límites políticos`    |  `Los límites están a nuestro alrededor. Algunos de ellos son visibles y otros están en nuestra cabeza, o corazón.`      |
+|   `24`   |  `24/09/2020`   |  `Elevación`    |  `Hermosas sombras, bellos contornos, altas montañas o valles bajos. Los mapas de elevación lo dicen todo.`|
+|   `25`   |  `25/09/2020`   |  `COVID-19`     |  `Estamos muy cansados de ver este tema por todos los lugares, pero no podemos omitirlo. Vamos, poco a poco va decreciendo la curva.`|
+|   `26`   |  `26/09/2020`   |  `Mapas realizados con nuevos plugins`  |  `Este día será un **#CaféConPluggins** exclusivo para la mapatón.`|
+|   `27`   |  `27/09/2020`   |  `Grandes o pequeños datos`   |  `¿A qué le llamamos "grandes datos espaciales" significativos? ¿Qué tipo de datos espaciales son "pequeños" pero interesantes?.` |
+|   `28`   |  `28/09/2020`   |  `Mapas no geográficos     |  Mapas mentales, mapas de planetas, mapas de bacterias microscópicas o tal vez incluso algo más extraño.` |
+|   `29`   |  `29/09/2020`   |  `Mapas globales`   |  `El mundo no es plano, por lo que con este mapa puedes enfatizar la redondez de nuestro planeta. Puede utilizar, por ejemplo, algunos plugins de QGIS.` |
+|   `30`   |  `30/09/2020`   |  `Un mapa libre`    |  `Sin reglas. Has llegado hasta aquí, así que haz lo que quieras. Solo haz un mapa.`|
 
 
 ## __DATOS + RECURSOS__ 📁 📍

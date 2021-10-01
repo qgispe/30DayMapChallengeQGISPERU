@@ -59,7 +59,7 @@ Por favor, consulta nuestro código de conducta al final de la página.
 |   `25`   |  `25/09/2020`   |  `COVID-19`     |  `Estamos muy cansados de ver este tema por todos los lugares, pero no podemos omitirlo. Vamos, poco a poco va decreciendo la curva.`|
 |   `26`   |  `26/09/2020`   |  `Mapas realizados con nuevos plugins`  |  `Este día será un **#CaféConPluggins** exclusivo para la mapatón.`|
 |   `27`   |  `27/09/2020`   |  `Grandes o pequeños datos`   |  `¿A qué le llamamos "grandes datos espaciales" significativos? ¿Qué tipo de datos espaciales son "pequeños" pero interesantes?.` |
-|   `28`   |  `28/09/2020`   |  `Mapas no geográficos     |  Mapas mentales, mapas de planetas, mapas de bacterias microscópicas o tal vez incluso algo más extraño.` |
+|   `28`   |  `28/09/2020`   |  `Mapas no geográficos`     |  `Mapas mentales, mapas de planetas, mapas de bacterias microscópicas o tal vez incluso algo más extraño.` |
 |   `29`   |  `29/09/2020`   |  `Mapas globales`   |  `El mundo no es plano, por lo que con este mapa puedes enfatizar la redondez de nuestro planeta. Puede utilizar, por ejemplo, algunos plugins de QGIS.` |
 |   `30`   |  `30/09/2020`   |  `Un mapa libre`    |  `Sin reglas. Has llegado hasta aquí, así que haz lo que quieras. Solo haz un mapa.`|
 
